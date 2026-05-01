@@ -1,0 +1,330 @@
+geoid,state_fips,jurisdiction_name,dry_wet_status,restriction_notes,data_source,last_verified
+01007,01,Bibb,moist,County dry but has wet cities within,alabama_abc,2026-02-19
+01009,01,Blount,moist,County dry but has wet cities within,alabama_abc,2026-02-19
+01019,01,Cherokee,moist,County dry but has wet cities within,alabama_abc,2026-02-19
+01021,01,Chilton,moist,County dry but has wet cities within,alabama_abc,2026-02-19
+01025,01,Clarke,moist,County dry but has wet cities within,alabama_abc,2026-02-19
+01027,01,Clay,moist,County dry but has wet cities within,alabama_abc,2026-02-19
+01031,01,Coffee,moist,County dry but has wet cities within,alabama_abc,2026-02-19
+01043,01,Cullman,moist,County dry but has wet cities within,alabama_abc,2026-02-19
+01049,01,DeKalb,moist,County dry but has wet cities within,alabama_abc,2026-02-19
+01057,01,Fayette,moist,County dry but has wet cities within,alabama_abc,2026-02-19
+01059,01,Franklin,moist,County dry but has wet cities within,alabama_abc,2026-02-19
+01061,01,Geneva,moist,County dry but has wet cities within,alabama_abc,2026-02-19
+01071,01,Jackson,moist,County dry but has wet cities within,alabama_abc,2026-02-19
+01075,01,Lamar,moist,County dry but has wet cities within,alabama_abc,2026-02-19
+01077,01,Lauderdale,moist,County dry but has wet cities within,alabama_abc,2026-02-19
+01079,01,Lawrence,moist,County dry but has wet cities within,alabama_abc,2026-02-19
+01083,01,Limestone,moist,County dry but has wet cities (Athens) within,alabama_abc,2026-02-19
+01093,01,Marion,moist,County dry but has wet cities within,alabama_abc,2026-02-19
+01095,01,Marshall,wet,Voted wet countywide Nov 2024 - formerly moist,alabama_abc,2026-02-19
+01099,01,Monroe,moist,County dry but has wet cities within,alabama_abc,2026-02-19
+01103,01,Morgan,moist,County dry but has wet cities within,alabama_abc,2026-02-19
+01107,01,Pickens,moist,County dry but has wet cities within,alabama_abc,2026-02-19
+01111,01,Randolph,moist,County dry but has wet cities within,alabama_abc,2026-02-19
+01127,01,Walker,moist,County dry but has wet cities (Jasper/Cordova/Dora/Sumiton) within,alabama_abc,2026-02-19
+01129,01,Washington,moist,County dry but has wet cities within,alabama_abc,2026-02-19
+01133,01,Winston,moist,County dry but has wet cities within,alabama_abc,2026-02-19
+05003,05,Ashley,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05007,05,Benton,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05009,05,Boone,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05011,05,Bradley,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05019,05,Clark,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05021,05,Clay,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05023,05,Cleburne,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05027,05,Columbia,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05031,05,Craighead,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05033,05,Crawford,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05045,05,Faulkner,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05049,05,Fulton,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05053,05,Grant,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05057,05,Hempstead,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05059,05,Hot Spring,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05061,05,Howard,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05063,05,Independence,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05065,05,Izard,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05071,05,Johnson,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05073,05,Lafayette,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05075,05,Lawrence,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05079,05,Lincoln,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05081,05,Little River,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05085,05,Lonoke,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05087,05,Madison,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05089,05,Marion,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05097,05,Montgomery,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05099,05,Nevada,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05101,05,Newton,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05105,05,Perry,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05109,05,Pike,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05113,05,Polk,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05115,05,Pope,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05121,05,Randolph,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05125,05,Saline,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05127,05,Scott,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05129,05,Searcy,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05133,05,Sevier,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05135,05,Sharp,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05137,05,Stone,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05141,05,Van Buren,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05145,05,White,dry,County-level prohibition,wikipedia_ar,2026-02-19
+05149,05,Yell,dry,County-level prohibition,wikipedia_ar,2026-02-19
+12077,12,Liberty,dry,Only dry county in Florida,wikipedia_fl,2026-02-19
+13023,13,Bleckley,moist,Distilled spirits retail and on-premise sales prohibited,wikipedia_ga,2026-02-19
+13027,13,Brooks,moist,Beer and wine only; distilled spirits prohibited; Quitman allows beer/wine,wikipedia_ga,2026-02-19
+13031,13,Bulloch,moist,Distilled spirits restricted,wikipedia_ga,2026-02-19
+13035,13,Butts,moist,Distilled spirits restricted,wikipedia_ga,2026-02-19
+13077,13,Coweta,moist,Distilled spirits restricted,wikipedia_ga,2026-02-19
+13087,13,Decatur,moist,Distilled spirits restricted,wikipedia_ga,2026-02-19
+13091,13,Dodge,moist,Distilled spirits restricted,wikipedia_ga,2026-02-19
+13103,13,Effingham,moist,Retail sale of distilled spirits prohibited,wikipedia_ga,2026-02-19
+13119,13,Franklin,moist,Beer and wine allowed; distilled spirits retail restricted; cities wet,wikipedia_ga,2026-02-19
+13147,13,Hart,moist,Distilled spirits retail and on-premise sales prohibited,wikipedia_ga,2026-02-19
+13187,13,Lumpkin,moist,Distilled spirits restricted,wikipedia_ga,2026-02-19
+13213,13,Murray,moist,Distilled spirits restricted,wikipedia_ga,2026-02-19
+13291,13,Union,moist,Distilled spirits restricted,wikipedia_ga,2026-02-19
+13293,13,Upson,moist,Distilled spirits restricted,wikipedia_ga,2026-02-19
+13311,13,White,moist,Distilled spirits restricted,wikipedia_ga,2026-02-19
+20007,20,Barber,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20019,20,Chautauqua,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20021,20,Cherokee,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20025,20,Clark,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20027,20,Clay,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20033,20,Comanche,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20043,20,Doniphan,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20049,20,Elk,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20063,20,Gove,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20067,20,Grant,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20075,20,Hamilton,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20077,20,Harper,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20081,20,Haskell,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20089,20,Jewell,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20097,20,Kiowa,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20101,20,Lane,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20109,20,Logan,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20119,20,Meade,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20129,20,Morton,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20141,20,Osborne,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20143,20,Ottawa,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20159,20,Rice,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20171,20,Scott,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20179,20,Sheridan,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20185,20,Stafford,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20187,20,Stanton,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20189,20,Stevens,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20199,20,Wallace,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20203,20,Wichita,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+20207,20,Woodson,dry,Dry-by-default state - not voted wet,ks_revenue,2026-02-19
+21009,21,Barren,moist,County dry but Glasgow and Cave City have alcohol sales,ky_abc,2026-02-19
+21025,21,Breathitt,moist,County dry but Jackson (city) has limited alcohol sales,ky_abc,2026-02-19
+21035,21,Calloway,moist,County dry but Murray voted fully wet 2012,ky_abc,2026-02-19
+21063,21,Elliott,dry,Strictly dry - no wet cities,ky_abc,2026-02-19
+21065,21,Estill,moist,County dry but Irvine voted wet 2013,ky_abc,2026-02-19
+21069,21,Fleming,moist,County dry but Flemingsburg has alcohol sales,ky_abc,2026-02-19
+21079,21,Garrard,moist,Approved by-the-drink at qualified historic sites and microbreweries 2023,ky_abc,2026-02-19
+21109,21,Jackson,dry,Strictly dry - no wet cities,ky_abc,2026-02-19
+21115,21,Johnson,moist,County dry but Paintsville became wet 2009,ky_abc,2026-02-19
+21121,21,Knox,moist,County dry but Corbin is wet (shared with Whitley),ky_abc,2026-02-19
+21125,21,Laurel,moist,County dry but London voted wet 2016,ky_abc,2026-02-19
+21127,21,Lawrence,moist,County dry but Louisa is wet city,ky_abc,2026-02-19
+21129,21,Lee,dry,Strictly dry - no wet cities,ky_abc,2026-02-19
+21137,21,Lincoln,moist,County dry but Stanford has alcohol sales,ky_abc,2026-02-19
+21147,21,McCreary,dry,Strictly dry - no wet cities,ky_abc,2026-02-19
+21165,21,Menifee,dry,Strictly dry - no wet cities,ky_abc,2026-02-19
+21175,21,Morgan,dry,Strictly dry - no wet cities,ky_abc,2026-02-19
+21189,21,Owsley,dry,Strictly dry - no wet cities,ky_abc,2026-02-19
+21197,21,Powell,dry,Strictly dry - no wet cities,ky_abc,2026-02-19
+21201,21,Robertson,dry,Strictly dry - no wet cities,ky_abc,2026-02-19
+21203,21,Rockcastle,dry,Strictly dry - no wet cities,ky_abc,2026-02-19
+21235,21,Whitley,moist,County dry but Corbin and Williamsburg are wet,ky_abc,2026-02-19
+21237,21,Wolfe,dry,Strictly dry - no wet cities,ky_abc,2026-02-19
+22009,22,Avoyelles,moist,Ward 1 prohibits all alcohol manufacturing/distribution/sales,la_atc,2026-02-19
+22011,22,Beauregard,moist,Parish dry except Merryville; some areas low-content only,la_atc,2026-02-19
+22013,22,Bienville,moist,Wards 5 6 7 prohibit all alcohol sales,la_atc,2026-02-19
+22027,22,Claiborne,moist,Ward 1 and Ward 9 (excl. municipalities) prohibit alcohol sales,la_atc,2026-02-19
+22043,22,Grant,moist,Ward 6 prohibits beverages >0.5% ABV,la_atc,2026-02-19
+22049,22,Jackson,moist,Wards 1 3 6 7 are dry; Wards 2 4 5 and towns are wet,la_atc,2026-02-19
+22061,22,Lincoln,moist,Wards 1 3 restrict >3.2% ABW; Ward 4 prohibits >0.5% ABV,la_atc,2026-02-19
+22069,22,Natchitoches,moist,Wards 2 5 dry; Ward 3 (unincorporated) restricts high-content,la_atc,2026-02-19
+22081,22,Red River,moist,Some wards still restrict sales after 1974 local option,la_atc,2026-02-19
+22085,22,Sabine,moist,Ward 4 prohibits >3.2% ABW,la_atc,2026-02-19
+22111,22,Union,moist,Wards 3 4 5 6 8 9 restrict various alcohol types,la_atc,2026-02-19
+22117,22,Washington,moist,Wards 2 3 9 prohibit >0.5% ABV; Wards 5 6 7 8 restrict to 3.2% ABW,la_atc,2026-02-19
+22119,22,Webster,moist,Ward 2 (east of Dorcheat Bayou) prohibits >3.2% ABW,la_atc,2026-02-19
+22123,22,West Carroll,moist,Wards 1-5 limit to max 6% ABV package only; no on-premises,la_atc,2026-02-19
+22127,22,Winn,moist,Restricted hours and specific ward restrictions,la_atc,2026-02-19
+28003,28,Alcorn,moist,Dry except Corinth (county seat) is wet,ms_dor,2026-02-19
+28007,28,Attala,moist,Dry except county seat (Kosciusko),ms_dor,2026-02-19
+28009,28,Benton,dry,Only completely dry county in MS,ms_dor,2026-02-19
+28013,28,Calhoun,moist,Dry except county seat,ms_dor,2026-02-19
+28015,28,Carroll,moist,Dry except county seat,ms_dor,2026-02-19
+28017,28,Chickasaw,moist,Split judicial districts - approximately half wet half dry,ms_dor,2026-02-19
+28019,28,Choctaw,dry,Prohibits all alcohol sales,ms_dor,2026-02-19
+28023,28,Clarke,moist,Dry except county seat,ms_dor,2026-02-19
+28029,28,Copiah,moist,Dry for liquor countywide; some wet municipalities,ms_dor,2026-02-19
+28031,28,Covington,moist,Dry for liquor; some municipalities wet,ms_dor,2026-02-19
+28037,28,Franklin,moist,Dry for liquor countywide,ms_dor,2026-02-19
+28039,28,George,moist,Dry for liquor countywide,ms_dor,2026-02-19
+28041,28,Greene,moist,Dry except for specific businesses exempted by state legislature,ms_dor,2026-02-19
+28049,28,Hinds,moist,Split judicial districts - Jackson (capital) in wet district,ms_dor,2026-02-19
+28057,28,Itawamba,moist,Dry except county seat (Fulton),ms_dor,2026-02-19
+28061,28,Jasper,moist,Dry except county seat,ms_dor,2026-02-19
+28067,28,Jones,moist,Dry for liquor; Laurel and Ellisville may have wet status,ms_dor,2026-02-19
+28069,28,Kemper,moist,Dry except county seat (DeKalb),ms_dor,2026-02-19
+28071,28,Lafayette,moist,Dry except Oxford (home of Ole Miss) is wet,ms_dor,2026-02-19
+28077,28,Lawrence,moist,Dry for liquor countywide,ms_dor,2026-02-19
+28079,28,Leake,moist,Dry for liquor and beer/wine except inside Carthage city limits,ms_dor,2026-02-19
+28081,28,Lee,moist,Dry except Tupelo (county seat) is wet,ms_dor,2026-02-19
+28085,28,Lincoln,moist,Dry for liquor; Brookhaven may have wet status,ms_dor,2026-02-19
+28087,28,Lowndes,moist,Dry except Columbus (county seat) is wet,ms_dor,2026-02-19
+28093,28,Marshall,moist,Dry except county seat,ms_dor,2026-02-19
+28095,28,Monroe,moist,Dry except county seat (Aberdeen),ms_dor,2026-02-19
+28099,28,Neshoba,moist,Dry except Choctaw tribal lands (Pearl River Resort exemption),ms_dor,2026-02-19
+28101,28,Newton,moist,Dry for liquor countywide,ms_dor,2026-02-19
+28103,28,Noxubee,moist,Dry except county seat (Macon),ms_dor,2026-02-19
+28105,28,Oktibbeha,moist,Dry except Starkville (home of Mississippi State) is wet,ms_dor,2026-02-19
+28107,28,Panola,moist,Dry except county seat,ms_dor,2026-02-19
+28115,28,Pontotoc,moist,Dry except Qualified Resort Area exemption (eff. July 2022),ms_dor,2026-02-19
+28117,28,Prentiss,dry,Prohibits all alcohol sales,ms_dor,2026-02-19
+28121,28,Rankin,moist,Largest dry county in MS; Pearl/Brandon/Flowood allow liquor by glass,ms_dor,2026-02-19
+28123,28,Scott,moist,Dry for liquor countywide,ms_dor,2026-02-19
+28129,28,Smith,dry,Prohibits all alcohol sales,ms_dor,2026-02-19
+28139,28,Tippah,moist,Dry except county seat (Ripley),ms_dor,2026-02-19
+28141,28,Tishomingo,moist,Dry except county seat (Iuka),ms_dor,2026-02-19
+28145,28,Union,moist,Dry except county seat (New Albany),ms_dor,2026-02-19
+28147,28,Walthall,dry,Prohibits all alcohol sales,ms_dor,2026-02-19
+28153,28,Wayne,moist,Dry for liquor; in Pine Belt region,ms_dor,2026-02-19
+28155,28,Webster,dry,Prohibits all alcohol sales,ms_dor,2026-02-19
+28159,28,Winston,moist,Dry except county seat (Louisville),ms_dor,2026-02-19
+28161,28,Yalobusha,moist,Dry except county seat,ms_dor,2026-02-19
+37075,37,Graham,dry,Completely dry - no alcohol sales anywhere in county including Robbinsville,nc_abc,2026-02-19
+37115,37,Madison,moist,County dry; municipalities (Mars Hill/Hot Springs/Marshall) allow beer and wine only; no ABC stores,nc_abc,2026-02-19
+37121,37,Mitchell,moist,County dry; Spruce Pine has ABC board allowing beer/wine/limited retail since 2009,nc_abc,2026-02-19
+37197,37,Yadkin,moist,No ABC stores; beer and wine sales permitted in some municipalities,nc_abc,2026-02-19
+37199,37,Yancey,moist,County dry; Burnsville allows alcohol sales (ABC store since 2010),nc_abc,2026-02-19
+47001,47,Anderson,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47003,47,Bedford,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47007,47,Bledsoe,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47011,47,Bradley,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47013,47,Campbell,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47015,47,Cannon,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47017,47,Carroll,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47019,47,Carter,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47021,47,Cheatham,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47023,47,Chester,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47025,47,Claiborne,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47027,47,Clay,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47029,47,Cocke,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47031,47,Coffee,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47033,47,Crockett,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47039,47,Decatur,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47041,47,DeKalb,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47043,47,Dickson,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47045,47,Dyer,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47047,47,Fayette,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47049,47,Fentress,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47051,47,Franklin,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47053,47,Gibson,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47055,47,Giles,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47057,47,Grainger,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47059,47,Greene,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47061,47,Grundy,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47063,47,Hamblen,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47067,47,Hancock,dry,Only completely dry county in TN - no alcohol sales of any kind,tn_abc,2026-02-19
+47069,47,Hardeman,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47071,47,Hardin,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47073,47,Hawkins,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47075,47,Haywood,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47077,47,Henderson,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47079,47,Henry,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47081,47,Hickman,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47083,47,Houston,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47085,47,Humphreys,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47087,47,Jackson,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47089,47,Jefferson,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47091,47,Johnson,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47095,47,Lake,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47097,47,Lauderdale,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47099,47,Lawrence,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47101,47,Lewis,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47103,47,Lincoln,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47105,47,Loudon,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47107,47,McMinn,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47109,47,McNairy,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47111,47,Macon,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47113,47,Madison,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47115,47,Marion,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47117,47,Marshall,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47119,47,Maury,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47121,47,Meigs,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47123,47,Monroe,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47125,47,Montgomery,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47129,47,Morgan,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47131,47,Obion,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47133,47,Overton,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47137,47,Pickett,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47139,47,Polk,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47141,47,Putnam,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47143,47,Rhea,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47145,47,Roane,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47147,47,Robertson,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47149,47,Rutherford,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47151,47,Scott,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47153,47,Sequatchie,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47155,47,Sevier,moist,No LBD; package stores permitted (Gatlinburg/Pigeon Forge tourist area),tn_abc,2026-02-19
+47159,47,Smith,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47161,47,Stewart,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47163,47,Sullivan,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47165,47,Sumner,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47167,47,Tipton,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47171,47,Unicoi,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47173,47,Union,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47175,47,Van Buren,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47177,47,Warren,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47179,47,Washington,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47181,47,Wayne,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47183,47,Weakley,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47185,47,White,moist,No LBD no package stores; beer only,tn_abc,2026-02-19
+47187,47,Williamson,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+47189,47,Wilson,moist,No LBD; package stores permitted,tn_abc,2026-02-19
+48033,48,Borden,dry,Completely dry - no alcohol sales,tabc_2020,2026-02-19
+48263,48,Kent,dry,Completely dry - no alcohol sales,tabc_2020,2026-02-19
+48393,48,Roberts,dry,Completely dry - no alcohol sales,tabc_2020,2026-02-19
+51021,51,Bland,dry,Distilled spirits prohibited at retail,va_abc,2026-02-19
+51027,51,Buchanan,dry,Distilled spirits prohibited at retail,va_abc,2026-02-19
+51037,51,Charlotte,dry,Distilled spirits prohibited at retail,va_abc,2026-02-19
+51045,51,Craig,dry,Distilled spirits prohibited at retail,va_abc,2026-02-19
+51077,51,Grayson,dry,Distilled spirits prohibited at retail,va_abc,2026-02-19
+51091,51,Highland,dry,Distilled spirits prohibited at retail,va_abc,2026-02-19
+51105,51,Lee,dry,Distilled spirits prohibited at retail,va_abc,2026-02-19
+51141,51,Patrick,dry,Distilled spirits prohibited at retail,va_abc,2026-02-19
+51167,51,Russell,dry,Distilled spirits prohibited at retail,va_abc,2026-02-19
+12067,12,Lafayette,moist,No liquor sales; beer under 6.243% ABV allowed for retail sale only,fl_abt_wine_institute,2026-03-24
+37045,37,Clay,dry,No ABC store; no legal alcohol sales countywide,nc_abc_commission,2026-03-24
+37117,37,Madison,moist,No ABC store (no spirits); beer and wine sales permitted,nc_abc_commission,2026-03-24
+46102,46,Oglala Lakota,dry,Only dry county in SD; located within Pine Ridge Indian Reservation; formerly Shannon County,sd_dor_wikipedia,2026-03-24
+51051,51,Craig,moist,Distilled spirits sales prohibited; beer and wine sales allowed,va_abc_authority,2026-03-24
+51063,51,Floyd,moist,Distilled spirits sales prohibited; beer and wine sales allowed,va_abc_authority,2026-03-24
+21001,21,Adair,dry,Strictly dry - no alcohol sales,https://abc.ky.gov/,2026-03-24
+21003,21,Allen,moist,Was dry; voted to allow some alcohol sales 2023,https://abc.ky.gov/,2026-03-24
+21007,21,Ballard,dry,Strictly dry - no alcohol sales,https://abc.ky.gov/,2026-03-24
+21011,21,Bath,dry,Strictly dry - no alcohol sales,https://abc.ky.gov/,2026-03-24
+21031,21,Butler,dry,Strictly dry - no alcohol sales,https://abc.ky.gov/,2026-03-24
+21039,21,Carlisle,dry,Strictly dry - no alcohol sales,https://abc.ky.gov/,2026-03-24
+21045,21,Casey,moist,Was dry; voted to allow some alcohol sales 2023,https://abc.ky.gov/,2026-03-24
+21053,21,Clinton,dry,Strictly dry - no alcohol sales,https://abc.ky.gov/,2026-03-24
+21055,21,Crittenden,dry,Strictly dry - no alcohol sales,https://abc.ky.gov/,2026-03-24
+21057,21,Cumberland,dry,Strictly dry - no alcohol sales,https://abc.ky.gov/,2026-03-24
+21085,21,Grayson,moist,County dry but Leitchfield has limited alcohol sales,https://abc.ky.gov/,2026-03-24
+21091,21,Hancock,dry,Strictly dry - no alcohol sales,https://abc.ky.gov/,2026-03-24
+21099,21,Hart,dry,Strictly dry - no alcohol sales,https://abc.ky.gov/,2026-03-24
+21105,21,Hickman,dry,Strictly dry - no alcohol sales,https://abc.ky.gov/,2026-03-24
+21119,21,Knott,wet,Voted wet May 2024 (59% yes); formerly dry,https://fox56news.com/election-results/voters-to-decide-if-knott-county-will-expand-alcohol-sales/,2026-03-24
+21123,21,Larue,dry,Strictly dry - no alcohol sales,https://abc.ky.gov/,2026-03-24
+21131,21,Leslie,dry,Strictly dry - no alcohol sales,https://abc.ky.gov/,2026-03-24
+21149,21,McLean,dry,Strictly dry - no alcohol sales,https://abc.ky.gov/,2026-03-24
+21159,21,Martin,dry,Strictly dry - no alcohol sales,https://abc.ky.gov/,2026-03-24
+21169,21,Metcalfe,dry,Strictly dry - no alcohol sales,https://abc.ky.gov/,2026-03-24
+21171,21,Monroe,dry,Strictly dry - no alcohol sales,https://abc.ky.gov/,2026-03-24
+21183,21,Ohio,dry,Strictly dry - no alcohol sales,https://abc.ky.gov/,2026-03-24
+21207,21,Russell,dry,Strictly dry - no alcohol sales,https://abc.ky.gov/,2026-03-24
+21233,21,Webster,dry,Strictly dry - no alcohol sales,https://abc.ky.gov/,2026-03-24

@@ -1,0 +1,93 @@
+state_fips,jurisdiction_type,naming_pattern,authority_type,data_source,notes
+01,county,{name} County Commission,general_government,al_statute,County commission acts as licensing authority
+02,county,{name} Borough,general_government,ak_amco,AK AMCO issues licenses; borough/city has local option
+02,municipality,City of {name},general_government,ak_amco,AK AMCO issues licenses; city has local option
+04,county,{name} County,general_government,az_dllc,AZ Dept of Liquor issues licenses; local has consent role
+04,municipality,City of {name},general_government,az_dllc,AZ Dept of Liquor issues licenses; local has consent role
+05,county,{name} County,general_government,ar_abc,Local government consent required
+05,municipality,City of {name},general_government,ar_abc,Local government consent required
+06,county,{name} County,general_government,ca_abc,CA ABC issues all licenses; local has land-use authority
+06,municipality,City of {name},general_government,ca_abc,CA ABC issues all licenses; local has land-use authority
+08,county,{name} County,general_government,co_dor,State issues licenses with local government consent
+08,municipality,City of {name},general_government,co_dor,Local licensing authority
+09,municipality,Town of {name},general_government,ct_dcp,CT towns control local licensing
+09,mcd,Town of {name},general_government,ct_dcp,CT towns (MCDs) control local licensing
+12,county,{name} County,general_government,fl_dbpr,FL DBPR issues licenses; county has zoning authority
+12,municipality,City of {name},general_government,fl_dbpr,FL DBPR issues licenses; city has zoning authority
+13,county,{name} County,general_government,ga_dor,County commission controls licensing
+13,municipality,City of {name},general_government,ga_dor,City council controls licensing
+16,county,{name} County,general_government,id_isp,State issues licenses with local consent
+16,municipality,City of {name},general_government,id_isp,State issues licenses with local consent
+17,county,{name} County Liquor Commission,general_government,il_statute,Mayor/county board president as liquor commissioner
+17,municipality,City of {name} Local Liquor Commission,general_government,il_statute,Mayor as Local Liquor Commissioner
+18,county,{name} County Alcoholic Beverage Board,dedicated_board,in_atc,Indiana 92 county boards
+19,municipality,City of {name},general_government,ia_abd,IA ABD issues licenses; city council has approval role
+20,county,{name} County,general_government,ks_abc,KS ABC issues licenses; county has local option control
+20,municipality,City of {name},general_government,ks_abc,KS ABC issues licenses; city has local option control
+21,county,{name} County,general_government,ky_abc,KY ABC issues licenses; county has local option control
+21,municipality,City of {name},general_government,ky_abc,KY ABC issues licenses; city has local option control
+22,county,{name} Parish,general_government,la_atc,LA ATC issues licenses; parish has consent role
+22,municipality,City of {name},general_government,la_atc,LA ATC issues licenses; city has consent role
+23,municipality,Town of {name},general_government,me_bablo,ME BABLO issues licenses; municipal officers approve
+23,mcd,Town of {name},general_government,me_bablo,ME BABLO issues licenses; selectboard/town meeting approve
+25,municipality,City of {name},general_government,ma_abcc,MA ABCC issues licenses; local licensing authority approves
+25,mcd,Town of {name} Board of Selectmen,general_government,ma_abcc,Town selectboard is local licensing authority
+26,county,{name} County,general_government,mi_lara,MI LARA issues licenses; local has consent role
+26,municipality,City of {name},general_government,mi_lara,MI LARA issues licenses; local has consent role
+26,mcd,Township of {name},general_government,mi_lara,MI LARA issues licenses; township has consent role
+27,municipality,City of {name},general_government,mn_ps,MN Public Safety issues licenses; city council approves
+27,mcd,Town of {name},general_government,mn_ps,MN Public Safety issues licenses; town board approves
+28,county,{name} County,general_government,ms_dor,County board of supervisors controls
+28,municipality,City of {name},general_government,ms_dor,City council controls
+29,county,{name} County,general_government,mo_atc,MO ATC issues licenses; county has no-consent option
+29,municipality,City of {name},general_government,mo_atc,MO ATC issues licenses; city has no-consent option
+31,municipality,City of {name},general_government,ne_lcc,NE Liquor Control Commission; city council consent
+32,county,{name} County,general_government,nv_cg,NV Control Board issues licenses; county has zoning authority
+33,county,New Hampshire State Liquor Commission,state_agency,nh_slc,State primary licensing
+33,municipality,New Hampshire State Liquor Commission,state_agency,nh_slc,State primary licensing
+33,mcd,New Hampshire State Liquor Commission,state_agency,nh_slc,State primary licensing
+34,municipality,{name},general_government,nj_abc,NJ ABC issues licenses; municipality controls quota
+34,mcd,{name} Township,general_government,nj_abc,NJ ABC issues licenses; township controls quota
+35,county,{name} County,general_government,nm_rld,NM RLD issues licenses; county has zoning role
+35,municipality,City of {name},general_government,nm_rld,NM RLD issues licenses; city has zoning role
+36,county,{name} County,general_government,ny_sla,NY SLA issues licenses; local has consent role
+36,municipality,City of {name},general_government,ny_sla,NY SLA issues licenses; local has consent role
+36,mcd,Town of {name},general_government,ny_sla,NY SLA issues licenses; local has consent role
+37,county,{name} County ABC Board,dedicated_board,nc_abc_directory,NC county ABC boards
+37,municipality,{name} ABC Board,dedicated_board,nc_abc_directory,NC municipal ABC boards
+38,county,{name} County,general_government,nd_ag,State issues licenses with local consent
+38,municipality,City of {name},general_government,nd_ag,State issues licenses with local consent
+39,county,{name} County,general_government,oh_doc,OH Dept of Commerce issues licenses; county has local option
+39,municipality,City of {name},general_government,oh_doc,OH Dept of Commerce issues licenses; city has local option
+40,county,{name} County,general_government,ok_able,ABLE Commission issues licenses; county has local option
+40,municipality,City of {name},general_government,ok_able,ABLE Commission issues licenses; city has local option
+41,county,{name} County,general_government,or_olcc,OR OLCC issues all licenses; county has land-use authority
+41,municipality,City of {name},general_government,or_olcc,OR OLCC issues all licenses; city has land-use authority
+42,county,Pennsylvania Liquor Control Board,state_agency,pa_plcb,State handles all licensing
+42,municipality,Pennsylvania Liquor Control Board,state_agency,pa_plcb,State handles all licensing
+42,mcd,Pennsylvania Liquor Control Board,state_agency,pa_plcb,State handles all licensing
+44,municipality,City of {name},general_government,ri_dbe,RI DBE issues licenses; city/town council approves
+44,mcd,Town of {name},general_government,ri_dbe,RI DBE issues licenses; town council approves
+45,county,{name} County,general_government,sc_dor,SC DOR issues licenses; county has zoning authority
+45,municipality,City of {name},general_government,sc_dor,SC DOR issues licenses; city has zoning authority
+46,municipality,City of {name},general_government,sd_dor,SD DOR issues licenses; municipality has local option
+47,county,{name} County,general_government,tn_abc,TN ABC issues licenses; county has local option
+47,municipality,City of {name},general_government,tn_abc,City government has local option on alcohol sales
+48,county,{name} County,general_government,tabc,TABC issues licenses; county has local option
+48,municipality,City of {name},general_government,tabc,TABC issues licenses; city has local option
+49,county,Utah Department of Alcoholic Beverage Services,state_agency,ut_dabs,State handles all licensing
+49,municipality,Utah Department of Alcoholic Beverage Services,state_agency,ut_dabs,State handles all licensing
+50,municipality,Town of {name},general_government,vt_dlc,VT DLC issues licenses; selectboard/town approves
+50,mcd,Town of {name},general_government,vt_dlc,VT towns (MCDs) are local licensing authority
+51,county,Virginia Alcoholic Beverage Control Authority,state_agency,va_abc,State issues all licenses; local role is consent only
+51,municipality,Virginia Alcoholic Beverage Control Authority,state_agency,va_abc,State issues all licenses
+51,independent_city,Virginia Alcoholic Beverage Control Authority,state_agency,va_abc,State issues all licenses
+53,county,{name} County,general_government,wa_lcb,WA LCB issues all licenses; county has land-use authority
+53,municipality,City of {name},general_government,wa_lcb,WA LCB issues all licenses; city has land-use authority
+54,county,{name} County,general_government,wv_abca,WV ABCA issues licenses; county has local option
+54,municipality,City of {name},general_government,wv_abca,WV ABCA issues licenses; city has local option
+55,municipality,City of {name},general_government,wi_dor,WI DOR issues licenses; municipal governing body approves
+55,mcd,Town of {name},general_government,wi_dor,WI DOR issues licenses; town board approves
+56,county,{name} County,general_government,wy_ag,WY issues licenses with local consent
+56,municipality,City of {name},general_government,wy_ag,WY issues licenses with local consent
+72,county,Municipio de {name},general_government,pr_daco,PR DACO issues licenses; municipio has local authority

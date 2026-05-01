@@ -1,0 +1,738 @@
+state_fips,state_abbr,municipality_name,county_name,total_active_licenses,has_consumption_license,has_distribution_license,has_limited_distribution,has_club_license,has_hotel_license,consumption_count,distribution_count,limited_distribution_count,club_count,hotel_count,grocery_can_sell_alcohol,population_2020,max_consumption_quota,consumption_slots_remaining,max_distribution_quota,distribution_slots_remaining,is_over_consumption_quota,is_over_distribution_quota,quota_notes
+34,NJ,Aberdeen,Monmouth,14,True,True,False,True,False,10,2,0,2,0,True,19329,6,-4,2,0,True,False,Over consumption: 10/6 (grandfathered)
+34,NJ,Absecon,Atlantic,6,True,True,False,True,False,3,1,0,2,0,True,9137,3,0,1,0,False,False,At capacity
+34,NJ,Alexandria,Hunterdon,1,False,True,False,False,False,0,1,0,0,0,True,4809,1,1,1,0,False,False,1 consumption slots available
+34,NJ,Allamuchy,Warren,4,True,True,False,False,False,3,1,0,0,0,True,5335,1,-2,1,0,True,False,Over consumption: 3/1 (grandfathered)
+34,NJ,Allendale,Bergen,5,True,True,False,False,False,3,2,0,0,0,True,6848,2,-1,1,-1,True,True,"Over both: 3/2 cons, 2/1 dist (grandfathered)"
+34,NJ,Allenhurst,Monmouth,1,False,True,False,False,False,0,1,0,0,0,True,472,1,1,1,0,False,False,1 consumption slots available
+34,NJ,Allentown,Monmouth,2,True,True,False,False,False,1,1,0,0,0,True,1734,1,0,1,0,False,False,At capacity
+34,NJ,Alloway,Salem,1,True,False,False,False,False,1,0,0,0,0,False,3283,1,0,1,1,False,False,1 distribution slots available
+34,NJ,Alpha,Warren,5,True,True,False,True,False,3,1,0,1,0,True,2328,1,-2,1,0,True,False,Over consumption: 3/1 (grandfathered)
+34,NJ,Alpine,Bergen,2,True,False,False,True,False,1,0,0,1,0,False,1762,1,0,1,1,False,False,1 distribution slots available
+34,NJ,Andover,Sussex,8,True,True,False,True,True,5,1,0,2,1,True,595,1,-4,1,0,True,False,Over consumption: 5/1 (grandfathered)
+34,NJ,Annandale,Hunterdon,4,True,False,False,False,False,4,0,0,0,0,False,,,,,,,,
+34,NJ,Asbury,Hunterdon,6,True,True,False,True,False,4,1,0,1,0,True,,,,,,,,
+34,NJ,Asbury Park,Monmouth,42,True,True,False,False,True,39,3,0,0,3,True,15188,5,-34,2,-1,True,True,"Over both: 39/5 cons, 3/2 dist (grandfathered)"
+34,NJ,Atco,Camden,6,True,True,False,True,False,4,1,0,1,0,True,,,,,,,,
+34,NJ,Atlantic City,Atlantic,84,True,True,False,True,False,71,12,0,1,0,True,38497,12,-59,5,-7,True,True,"Over both: 71/12 cons, 12/5 dist (grandfathered)"
+34,NJ,Atlantic Cty,Atlantic,2,True,False,False,False,False,2,0,0,0,0,False,,,,,,,,
+34,NJ,Atlantic Highlands,Monmouth,12,True,True,False,True,False,9,2,0,1,0,True,4414,1,-8,1,-1,True,True,"Over both: 9/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Audubon,Camden,4,True,True,False,False,False,3,1,0,0,0,True,8707,2,-1,1,0,True,False,Over consumption: 3/2 (grandfathered)
+34,NJ,Audubon Park,Camden,0,False,False,False,False,False,0,0,0,0,0,False,991,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Augusta,Sussex,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Avalon,Cape May,10,True,True,False,True,True,8,1,0,1,4,True,1243,1,-7,1,0,True,False,Over consumption: 8/1 (grandfathered)
+34,NJ,Avenel (Woodbridge),Middlesex,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Avon-By-The-Sea,Monmouth,3,True,True,False,False,False,2,1,0,0,0,True,1933,1,-1,1,0,True,False,Over consumption: 2/1 (grandfathered)
+34,NJ,Barnegat,Ocean,12,True,True,False,True,False,8,2,0,2,0,True,24296,8,0,3,1,False,False,1 distribution slots available
+34,NJ,Barnegat Light,Ocean,2,True,True,False,False,False,1,1,0,0,0,True,640,1,0,1,0,False,False,At capacity
+34,NJ,Barrington,Camden,4,True,True,False,False,False,3,1,0,0,0,True,7075,2,-1,1,0,True,False,Over consumption: 3/2 (grandfathered)
+34,NJ,Bass River,Burlington,1,True,False,False,False,False,1,0,0,0,0,False,1355,1,0,1,1,False,False,1 distribution slots available
+34,NJ,Bay Head,Ocean,4,True,True,False,True,False,1,2,0,1,0,True,930,1,0,1,-1,False,True,Over distribution: 2/1 (grandfathered)
+34,NJ,Bayonne,Hudson,93,True,True,False,True,False,74,10,0,9,0,True,71686,23,-51,9,-1,True,True,"Over both: 74/23 cons, 10/9 dist (grandfathered)"
+34,NJ,Beach Haven,Ocean,13,True,True,False,True,True,9,1,0,3,2,True,1027,1,-8,1,0,True,False,Over consumption: 9/1 (grandfathered)
+34,NJ,Beachwood,Ocean,4,True,True,False,True,False,2,1,0,1,0,True,10859,3,1,1,0,False,False,1 consumption slots available
+34,NJ,Bedminster,Somerset,3,True,False,False,True,False,2,0,0,1,0,False,8272,2,0,1,1,False,False,1 distribution slots available
+34,NJ,Belcoville,Atlantic,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Belford,Monmouth,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Belleville,Essex,37,True,True,False,True,False,24,8,0,5,0,True,38222,12,-12,5,-3,True,True,"Over both: 24/12 cons, 8/5 dist (grandfathered)"
+34,NJ,Bellmawr,Camden,9,True,True,False,True,False,4,2,0,3,0,True,11707,3,-1,1,-1,True,True,"Over both: 4/3 cons, 2/1 dist (grandfathered)"
+34,NJ,Bellville,Essex,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Belmar,Monmouth,15,True,True,False,True,False,11,2,0,2,0,True,5907,1,-10,1,-1,True,True,"Over both: 11/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Belvidere,Warren,7,True,True,False,True,False,5,1,0,1,0,True,2520,1,-4,1,0,True,False,Over consumption: 5/1 (grandfathered)
+34,NJ,Benardeville,Somerset,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Bergen,Bergen,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Bergenfield,Bergen,14,True,True,False,True,False,10,2,0,2,0,True,28321,9,-1,3,1,True,False,Over consumption: 10/9 (grandfathered)
+34,NJ,Berkeley,Ocean,18,True,True,False,True,True,13,3,0,2,1,True,43754,14,1,5,2,False,False,1 consumption; 2 distribution slots available
+34,NJ,Berkeley Heights,Union,10,True,True,False,True,True,6,3,0,1,1,True,13285,4,-2,1,-2,True,True,"Over both: 6/4 cons, 3/1 dist (grandfathered)"
+34,NJ,Berkeley Neights,Union,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Berkley,Ocean,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Berlin,Camden,11,True,True,False,True,False,9,1,0,1,0,True,7489,2,-7,1,0,True,False,Over consumption: 9/2 (grandfathered)
+34,NJ,Berlin (Winslow Twp),Camden,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Bernards,Somerset,17,True,True,False,True,True,13,3,0,1,3,True,27830,9,-4,3,0,True,False,Over consumption: 13/9 (grandfathered)
+34,NJ,Bernardsville,Somerset,11,True,True,False,False,False,6,5,0,0,0,True,7893,2,-4,1,-4,True,True,"Over both: 6/2 cons, 5/1 dist (grandfathered)"
+34,NJ,Bethlehem,,0,False,False,False,False,False,0,0,0,0,0,False,3745,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Beverly,Burlington,3,True,False,False,True,False,1,0,0,2,0,False,2499,1,0,1,1,False,False,1 distribution slots available
+34,NJ,Blairstown,Warren,5,True,False,False,False,False,5,0,0,0,0,False,5704,1,-4,1,1,True,False,Over consumption: 5/1 (grandfathered)
+34,NJ,Blawenburg,Somerset,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Bloomfield,Essex,36,True,True,True,False,False,25,10,1,0,0,True,53105,17,-8,7,-3,True,True,"Over both: 25/17 cons, 10/7 dist (grandfathered)"
+34,NJ,Bloomingdale,Passaic,9,True,True,False,True,False,6,2,0,1,0,True,7777,2,-4,1,-1,True,True,"Over both: 6/2 cons, 2/1 dist (grandfathered)"
+34,NJ,Bloomsbury,Hunterdon,1,True,False,False,False,False,1,0,0,0,0,False,792,1,0,1,1,False,False,1 distribution slots available
+34,NJ,Bogota,Bergen,11,True,True,False,True,False,4,6,0,1,0,True,8778,2,-2,1,-5,True,True,"Over both: 4/2 cons, 6/1 dist (grandfathered)"
+34,NJ,Boonton,Morris,13,True,True,False,True,False,7,4,0,2,0,True,8815,2,-5,1,-3,True,True,"Over both: 7/2 cons, 4/1 dist (grandfathered)"
+34,NJ,Bordentown,Burlington,23,True,True,False,True,True,17,3,0,3,3,True,3993,1,-16,1,-2,True,True,"Over both: 17/1 cons, 3/1 dist (grandfathered)"
+34,NJ,Boroough Of Hopatcong,Sussex,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Borough Of Beach Haven,Ocean,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Borough Of Califon,Hunterdon,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Borough Of Fairview,Bergen,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Borough Of Glassboro,Gloucester,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Borough Of Ship Bottom,Ocean,1,True,False,False,False,True,1,0,0,0,1,False,,,,,,,,
+34,NJ,Borough Of Victory Gardens,Morris,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Bound Brook,Somerset,17,True,True,False,True,False,14,2,0,1,0,True,11988,3,-11,1,-1,True,True,"Over both: 14/3 cons, 2/1 dist (grandfathered)"
+34,NJ,Bradley Beach,Monmouth,8,True,True,False,False,False,7,1,0,0,0,True,4282,1,-6,1,0,True,False,Over consumption: 7/1 (grandfathered)
+34,NJ,Branchburg,Somerset,11,True,True,False,False,True,10,1,0,0,3,True,14940,4,-6,1,0,True,False,Over consumption: 10/4 (grandfathered)
+34,NJ,Branchville,Sussex,7,True,True,False,True,False,5,1,0,1,0,True,791,1,-4,1,0,True,False,Over consumption: 5/1 (grandfathered)
+34,NJ,Brant,Ocean,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Brant Beach,Ocean,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Brick,Ocean,42,True,True,False,True,False,25,10,0,7,0,True,73620,24,-1,9,-1,True,True,"Over both: 25/24 cons, 10/9 dist (grandfathered)"
+34,NJ,Bridgeport,Gloucester,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Bridgeton,Cumberland,17,True,True,False,True,False,8,5,0,4,0,True,27263,9,1,3,-2,False,True,Over distribution: 5/3 (grandfathered)
+34,NJ,Bridgewater,Somerset,39,True,True,False,True,True,30,5,0,4,4,True,45977,15,-15,6,1,True,False,Over consumption: 30/15 (grandfathered)
+34,NJ,Brielle,Monmouth,12,True,True,False,True,False,9,1,0,2,0,True,4982,1,-8,1,0,True,False,Over consumption: 9/1 (grandfathered)
+34,NJ,Brigantine,Atlantic,12,True,True,False,True,True,6,1,0,5,1,True,7716,2,-4,1,0,True,False,Over consumption: 6/2 (grandfathered)
+34,NJ,Broadway,Warren,2,True,True,False,False,False,1,1,0,0,0,True,,,,,,,,
+34,NJ,Brooklawn,Camden,6,True,True,False,True,False,4,1,0,1,0,True,1815,1,-3,1,0,True,False,Over consumption: 4/1 (grandfathered)
+34,NJ,Bryam,Sussex,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Budd Lake Mt Olive,Morris,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Buena,Atlantic,7,True,True,False,False,False,6,1,0,0,0,True,4501,1,-5,1,0,True,False,Over consumption: 6/1 (grandfathered)
+34,NJ,Buena Vista,Atlantic,4,True,True,False,False,False,3,1,0,0,0,True,7033,2,-1,1,0,True,False,Over consumption: 3/2 (grandfathered)
+34,NJ,Buena Vista Twp Milmay,Atlantic,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Burlington,Burlington,28,True,True,False,True,False,16,8,0,4,0,True,9743,3,-13,1,-7,True,True,"Over both: 16/3 cons, 8/1 dist (grandfathered)"
+34,NJ,Butler,Morris,11,True,True,False,True,False,6,2,0,3,0,True,8047,2,-4,1,-1,True,True,"Over both: 6/2 cons, 2/1 dist (grandfathered)"
+34,NJ,Buttzville,Warren,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Byram,Sussex,5,True,False,False,False,False,5,0,0,0,0,False,8028,2,-3,1,1,True,False,Over consumption: 5/2 (grandfathered)
+34,NJ,Caldwell,Essex,8,True,True,False,True,False,3,4,0,1,0,True,9027,3,0,1,-3,False,True,Over distribution: 4/1 (grandfathered)
+34,NJ,Califon,Hunterdon,2,False,True,False,True,False,0,1,0,1,0,True,1005,1,1,1,0,False,False,1 consumption slots available
+34,NJ,Camden,Camden,66,True,True,False,True,True,49,12,0,5,1,True,71791,23,-26,9,-3,True,True,"Over both: 49/23 cons, 12/9 dist (grandfathered)"
+34,NJ,Cape May,Cape May,29,True,True,False,True,True,20,1,0,8,8,True,2768,1,-19,1,0,True,False,Over consumption: 20/1 (grandfathered)
+34,NJ,Cape May Point,Cape May,1,False,False,False,True,False,0,0,0,1,0,False,305,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Carlstadt,Bergen,22,True,True,False,True,True,18,3,0,1,2,True,6372,2,-16,1,-2,True,True,"Over both: 18/2 cons, 3/1 dist (grandfathered)"
+34,NJ,Carneys Point,Salem,10,True,True,False,True,False,5,1,0,4,0,True,8637,2,-3,1,0,True,False,Over consumption: 5/2 (grandfathered)
+34,NJ,Carteret,Middlesex,26,True,True,False,True,True,16,4,0,6,1,True,25326,8,-8,3,-1,True,True,"Over both: 16/8 cons, 4/3 dist (grandfathered)"
+34,NJ,Cedar Brook,Camden,2,True,True,False,False,False,1,1,0,0,0,True,,,,,,,,
+34,NJ,Cedar Grove,Essex,11,True,True,False,True,False,8,2,0,1,0,True,12980,4,-4,1,-1,True,True,"Over both: 8/4 cons, 2/1 dist (grandfathered)"
+34,NJ,Cedar Run,Ocean,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Chatham,Morris,11,True,True,False,False,False,6,5,0,0,0,True,9212,3,-3,1,-4,True,True,"Over both: 6/3 cons, 5/1 dist (grandfathered)"
+34,NJ,Cherry Hill,Camden,47,True,True,False,True,True,34,9,0,4,4,True,74553,24,-10,9,0,True,False,Over consumption: 34/24 (grandfathered)
+34,NJ,Chesilhurst,Camden,2,True,True,False,False,False,1,1,0,0,0,True,1536,1,0,1,0,False,False,At capacity
+34,NJ,Chester,Morris,10,True,True,False,True,False,6,2,0,2,0,True,1681,1,-5,1,-1,True,True,"Over both: 6/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Chesterfield,Burlington,2,True,False,False,False,False,2,0,0,0,0,False,9422,3,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Chestfield,Burlington,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Chewslanding,Camden,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Cinnaminson,Burlington,7,True,True,False,False,False,5,2,0,0,0,True,17064,5,0,2,0,False,False,At capacity
+34,NJ,City Of Atlantic,Atlantic,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,City Of Cape May,Cape May,2,True,False,False,False,False,2,0,0,0,0,False,,,,,,,,
+34,NJ,City Of Orange,Essex,33,True,True,False,False,False,24,9,0,0,0,True,34447,11,-13,4,-5,True,True,"Over both: 24/11 cons, 9/4 dist (grandfathered)"
+34,NJ,Clark,Union,16,True,True,False,True,True,10,2,0,4,1,True,15544,5,-5,2,0,True,False,Over consumption: 10/5 (grandfathered)
+34,NJ,Clarksburg,Monmouth,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Clayton,Gloucester,4,True,True,False,True,False,2,1,0,1,0,True,8807,2,0,1,0,False,False,At capacity
+34,NJ,Clementon,Camden,9,True,True,False,False,False,7,2,0,0,0,True,5338,1,-6,1,-1,True,True,"Over both: 7/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Cliffside Park,Bergen,38,True,True,False,False,False,29,9,0,0,0,True,25693,8,-21,3,-6,True,True,"Over both: 29/8 cons, 9/3 dist (grandfathered)"
+34,NJ,Cliffwood,Monmouth,2,False,True,False,True,False,0,1,0,1,0,True,,,,,,,,
+34,NJ,Clifton,Passaic,117,True,True,True,True,False,74,37,1,5,0,True,90296,30,-44,12,-25,True,True,"Over both: 74/30 cons, 37/12 dist (grandfathered)"
+34,NJ,Clinton,Hunterdon,10,True,True,False,True,False,7,2,0,1,0,True,2773,1,-6,1,-1,True,True,"Over both: 7/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Closter,Bergen,13,True,True,False,True,False,9,3,0,1,0,True,8594,2,-7,1,-2,True,True,"Over both: 9/2 cons, 3/1 dist (grandfathered)"
+34,NJ,Collingswood,,0,False,False,False,False,False,0,0,0,0,0,False,14186,4,4,1,1,False,False,4 consumption; 1 distribution slots available
+34,NJ,Cologne,Atlantic,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Colts Neck,Monmouth,7,True,True,False,True,False,5,1,0,1,0,True,9957,3,-2,1,0,True,False,Over consumption: 5/3 (grandfathered)
+34,NJ,Columbia,Warren,3,True,False,False,False,False,3,0,0,0,0,False,,,,,,,,
+34,NJ,Columbus,Burlington,2,True,False,False,False,False,2,0,0,0,0,False,,,,,,,,
+34,NJ,Commercial,Cumberland,2,False,True,False,True,False,0,1,0,1,0,True,4669,1,1,1,0,False,False,1 consumption slots available
+34,NJ,Convent Station,Morris,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Cookstown,Burlington,2,False,True,False,True,False,0,1,0,1,0,True,,,,,,,,
+34,NJ,Corbin City,Atlantic,3,True,False,False,False,False,3,0,0,0,0,False,471,1,-2,1,1,True,False,Over consumption: 3/1 (grandfathered)
+34,NJ,Cranbury,Middlesex,3,True,False,False,False,False,3,0,0,0,0,False,3842,1,-2,1,1,True,False,Over consumption: 3/1 (grandfathered)
+34,NJ,Cranford,Union,14,True,True,False,True,True,9,3,0,2,1,True,23847,7,-2,3,0,True,False,Over consumption: 9/7 (grandfathered)
+34,NJ,Cream Ridge,Monmouth,3,True,False,False,False,False,3,0,0,0,0,False,,,,,,,,
+34,NJ,Cresskill,Bergen,8,True,True,False,True,False,5,2,0,1,0,True,9155,3,-2,1,-1,True,True,"Over both: 5/3 cons, 2/1 dist (grandfathered)"
+34,NJ,Crosswicks,Burlington,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Deal,Monmouth,5,True,True,False,True,False,2,1,0,2,0,True,900,1,-1,1,0,True,False,Over consumption: 2/1 (grandfathered)
+34,NJ,Deerfield,Cumberland,6,True,True,False,True,False,3,2,0,1,0,True,3136,1,-2,1,-1,True,True,"Over both: 3/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Del Haven,Cape May,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Delair,Camden,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Delanco,,0,False,False,False,False,False,0,0,0,0,0,False,4824,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Delaware,Hunterdon,4,True,True,False,False,False,3,1,0,0,0,True,4560,1,-2,1,0,True,False,Over consumption: 3/1 (grandfathered)
+34,NJ,Delran,Burlington,12,True,True,False,True,False,5,2,0,5,0,True,17882,5,0,2,0,False,False,At capacity
+34,NJ,Demarest,Bergen,2,True,True,False,False,False,1,1,0,0,0,True,4981,1,0,1,0,False,False,At capacity
+34,NJ,Dennis,Cape May,3,True,True,False,True,False,1,1,0,1,0,True,6285,2,1,1,0,False,False,1 consumption slots available
+34,NJ,Denville,Morris,18,True,True,False,True,False,9,2,0,7,0,True,17107,5,-4,2,0,True,False,Over consumption: 9/5 (grandfathered)
+34,NJ,Deptford,Gloucester,22,True,True,False,True,True,17,3,0,2,2,True,31977,10,-7,4,1,True,False,Over consumption: 17/10 (grandfathered)
+34,NJ,Deptford Township (Sewell,Gloucester,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Dover,Morris,28,True,True,False,True,True,19,5,0,4,2,True,18460,6,-13,2,-3,True,True,"Over both: 19/6 cons, 5/2 dist (grandfathered)"
+34,NJ,Downe,,0,False,False,False,False,False,0,0,0,0,0,False,1399,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Dumont,Bergen,11,True,True,False,True,False,7,2,0,2,0,True,17863,5,-2,2,0,True,False,Over consumption: 7/5 (grandfathered)
+34,NJ,Dunellen,Middlesex,10,True,True,False,True,False,6,1,0,3,0,True,7637,2,-4,1,0,True,False,Over consumption: 6/2 (grandfathered)
+34,NJ,E Newark,Hudson,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Eagleswood,Ocean,1,True,False,False,False,False,1,0,0,0,0,False,1722,1,0,1,1,False,False,1 distribution slots available
+34,NJ,East Amwell,Hunterdon,2,True,False,False,True,False,1,0,0,1,0,False,3917,1,0,1,1,False,False,1 distribution slots available
+34,NJ,East Brunswick,Middlesex,28,True,True,False,True,True,19,6,0,3,4,True,49715,16,-3,6,0,True,False,Over consumption: 19/16 (grandfathered)
+34,NJ,East Greenwich,Gloucester,3,True,True,False,False,False,2,1,0,0,0,True,11706,3,1,1,0,False,False,1 consumption slots available
+34,NJ,East Hanover,Morris,11,True,True,False,True,False,9,1,0,1,0,True,11105,3,-6,1,0,True,False,Over consumption: 9/3 (grandfathered)
+34,NJ,East Newark,Hudson,5,True,True,False,False,False,3,2,0,0,0,True,2594,1,-2,1,-1,True,True,"Over both: 3/1 cons, 2/1 dist (grandfathered)"
+34,NJ,East Orange,Essex,22,True,True,False,False,True,10,12,0,0,1,True,69612,23,13,9,-3,False,True,Over distribution: 12/9 (grandfathered)
+34,NJ,East Rutherford,Bergen,26,True,True,False,False,True,22,4,0,0,3,True,10022,3,-19,1,-3,True,True,"Over both: 22/3 cons, 4/1 dist (grandfathered)"
+34,NJ,East Windsor,Mercer,16,True,True,False,True,True,10,3,0,3,2,True,30045,10,0,4,1,False,False,1 distribution slots available
+34,NJ,Eastampton,Burlington,4,True,True,False,False,False,3,1,0,0,0,True,6191,2,-1,1,0,True,False,Over consumption: 3/2 (grandfathered)
+34,NJ,Eatontown,Monmouth,17,True,True,False,True,True,14,2,0,1,2,True,13597,4,-10,1,-1,True,True,"Over both: 14/4 cons, 2/1 dist (grandfathered)"
+34,NJ,Edgewater,Bergen,20,True,True,False,True,True,18,1,0,1,2,True,14336,4,-14,1,0,True,False,Over consumption: 18/4 (grandfathered)
+34,NJ,Edgewater Park,Burlington,4,True,True,False,True,False,2,1,0,1,0,True,8930,2,0,1,0,False,False,At capacity
+34,NJ,Edison,Middlesex,62,True,True,False,True,True,42,13,0,7,7,True,107588,35,-7,14,1,True,False,Over consumption: 42/35 (grandfathered)
+34,NJ,Egg Habor,Atlantic,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Egg Harbor,Atlantic,37,True,True,False,True,True,28,6,0,3,2,True,47842,15,-13,6,0,True,False,Over consumption: 28/15 (grandfathered)
+34,NJ,Egg Harbor City,Atlantic,16,True,True,False,False,False,13,3,0,0,0,True,4396,1,-12,1,-2,True,True,"Over both: 13/1 cons, 3/1 dist (grandfathered)"
+34,NJ,Egg Harbor City (Washington Twp),Burlington,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Elberon,Monmouth,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Elizabeth,Union,167,True,True,False,True,True,140,22,0,5,7,True,137298,45,-95,18,-4,True,True,"Over both: 140/45 cons, 22/18 dist (grandfathered)"
+34,NJ,Elk,,0,False,False,False,False,False,0,0,0,0,0,False,4424,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Elmer,Salem,0,False,False,False,False,False,0,0,0,0,0,False,1347,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Elmwood Park,Bergen,26,True,True,False,True,False,14,8,0,4,0,True,21422,7,-7,2,-6,True,True,"Over both: 14/7 cons, 8/2 dist (grandfathered)"
+34,NJ,Elsinboro,Salem,1,False,True,False,False,False,0,1,0,0,0,True,1001,1,1,1,0,False,False,1 consumption slots available
+34,NJ,Emerson,Bergen,6,True,True,False,False,False,4,2,0,0,0,True,7290,2,-2,1,-1,True,True,"Over both: 4/2 cons, 2/1 dist (grandfathered)"
+34,NJ,Englewood,Bergen,32,True,True,True,True,True,18,7,3,4,2,True,29308,9,-9,3,-4,True,True,"Over both: 18/9 cons, 7/3 dist (grandfathered)"
+34,NJ,Englewood Cliffs,Bergen,8,True,False,False,False,False,8,0,0,0,0,False,5342,1,-7,1,1,True,False,Over consumption: 8/1 (grandfathered)
+34,NJ,Englewood Cty,Bergen,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Englishtown,Monmouth,6,True,True,False,True,False,3,1,0,2,0,True,2346,1,-2,1,0,True,False,Over consumption: 3/1 (grandfathered)
+34,NJ,Eptford,Gloucester,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Essex Fells,Essex,1,True,False,False,False,False,1,0,0,0,0,False,2244,1,0,1,1,False,False,1 distribution slots available
+34,NJ,Estell Manor,Atlantic,1,True,False,False,False,False,1,0,0,0,0,False,1668,1,0,1,1,False,False,1 distribution slots available
+34,NJ,Evesham,Burlington,25,True,True,False,True,False,16,6,0,3,0,True,46826,15,-1,6,0,True,False,Over consumption: 16/15 (grandfathered)
+34,NJ,Ewing,Mercer,27,True,True,False,True,True,22,4,0,1,2,True,37264,12,-10,4,0,True,False,Over consumption: 22/12 (grandfathered)
+34,NJ,Fair Haven,Monmouth,5,True,True,False,True,False,2,1,0,2,0,True,6269,2,0,1,0,False,False,At capacity
+34,NJ,Fair Lawn,Bergen,25,True,True,False,True,True,18,4,0,3,1,True,34927,11,-7,4,0,True,False,Over consumption: 18/11 (grandfathered)
+34,NJ,Fairfield,Cumberland,23,True,True,False,True,True,21,1,0,1,4,True,5546,1,-20,1,0,True,False,Over consumption: 21/1 (grandfathered)
+34,NJ,Fairview,Bergen,24,True,True,False,True,False,13,8,0,3,0,True,15025,5,-8,2,-6,True,True,"Over both: 13/5 cons, 8/2 dist (grandfathered)"
+34,NJ,Fanwood,Union,4,True,True,True,False,False,2,1,1,0,0,True,7774,2,0,1,0,False,False,At capacity
+34,NJ,Far Hills,Somerset,0,False,False,False,False,False,0,0,0,0,0,False,924,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Faringdale,Monmouth,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Farmingdale,Monmouth,3,True,True,False,False,False,2,1,0,0,0,True,1504,1,-1,1,0,True,False,Over consumption: 2/1 (grandfathered)
+34,NJ,Fieldsboro,Burlington,3,True,True,False,False,False,2,1,0,0,0,True,526,1,-1,1,0,True,False,Over consumption: 2/1 (grandfathered)
+34,NJ,Flemington,Hunterdon,16,True,True,False,True,True,11,2,0,3,2,True,4876,1,-10,1,-1,True,True,"Over both: 11/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Florence,Burlington,12,True,True,False,True,False,7,3,0,2,0,True,12812,4,-3,1,-2,True,True,"Over both: 7/4 cons, 3/1 dist (grandfathered)"
+34,NJ,Florham Park,Morris,8,True,True,False,True,True,6,1,0,1,2,True,12585,4,-2,1,0,True,False,Over consumption: 6/4 (grandfathered)
+34,NJ,Florham Pk,Morris,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Folsom,Atlantic,7,True,True,False,False,False,6,1,0,0,0,True,1811,1,-5,1,0,True,False,Over consumption: 6/1 (grandfathered)
+34,NJ,Fort Lee,Bergen,49,True,True,False,True,True,36,11,0,2,2,True,40191,13,-23,5,-6,True,True,"Over both: 36/13 cons, 11/5 dist (grandfathered)"
+34,NJ,Frankford,Sussex,5,True,True,False,False,False,4,1,0,0,0,True,5302,1,-3,1,0,True,False,Over consumption: 4/1 (grandfathered)
+34,NJ,Franklin,Gloucester,56,True,True,False,True,True,39,12,0,5,8,True,4912,1,-38,1,-11,True,True,"Over both: 39/1 cons, 12/1 dist (grandfathered)"
+34,NJ,Franklin Lakes,Bergen,4,True,True,False,False,False,3,1,0,0,0,True,11079,3,0,1,0,False,False,At capacity
+34,NJ,Franklin Park,Somerset,5,True,True,False,False,False,3,2,0,0,0,True,,,,,,,,
+34,NJ,Franklinville,Gloucester,4,True,True,False,True,False,2,1,0,1,0,True,,,,,,,,
+34,NJ,Fredon,Sussex,7,True,True,False,True,False,5,1,0,1,0,True,3235,1,-4,1,0,True,False,Over consumption: 5/1 (grandfathered)
+34,NJ,Freehold,Monmouth,32,True,True,False,True,True,21,6,0,5,1,True,12538,4,-17,1,-5,True,True,"Over both: 21/4 cons, 6/1 dist (grandfathered)"
+34,NJ,Frelinghuysen,Warren,1,True,False,False,False,False,1,0,0,0,0,False,2199,1,0,1,1,False,False,1 distribution slots available
+34,NJ,Frenchtown,Hunterdon,4,True,True,False,True,False,2,1,0,1,0,True,1370,1,-1,1,0,True,False,Over consumption: 2/1 (grandfathered)
+34,NJ,Frenlinghuysen,Warren,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Galloway,Atlantic,28,True,True,False,True,True,24,2,0,2,1,True,37813,12,-12,5,3,True,False,Over consumption: 24/12 (grandfathered)
+34,NJ,Garfield,Bergen,44,True,True,False,True,False,37,6,0,1,0,True,32655,10,-27,4,-2,True,True,"Over both: 37/10 cons, 6/4 dist (grandfathered)"
+34,NJ,Garwood,Union,11,True,True,False,True,False,9,1,0,1,0,True,4454,1,-8,1,0,True,False,Over consumption: 9/1 (grandfathered)
+34,NJ,Gibbsboro,Camden,4,True,True,False,True,False,1,1,0,2,0,True,2189,1,0,1,0,False,False,At capacity
+34,NJ,Gibbstown,Gloucester,4,True,True,False,True,False,1,1,0,2,0,True,,,,,,,,
+34,NJ,Gillette,Morris,2,True,False,False,False,False,2,0,0,0,0,False,,,,,,,,
+34,NJ,Gillette Liquors,Morris,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Gladstone,Somerset,2,True,True,False,False,False,1,1,0,0,0,True,,,,,,,,
+34,NJ,Glassboro,Gloucester,13,True,True,False,True,True,7,4,0,2,1,True,23149,7,0,3,-1,False,True,Over distribution: 4/3 (grandfathered)
+34,NJ,Glen Gardner,Hunterdon,3,True,True,False,True,False,1,1,0,1,0,True,1682,1,0,1,0,False,False,At capacity
+34,NJ,Glen Ridge,Essex,4,True,True,False,False,False,2,2,0,0,0,True,7802,2,0,1,-1,False,True,Over distribution: 2/1 (grandfathered)
+34,NJ,Glen Rock,Bergen,9,True,True,False,True,False,4,4,0,1,0,True,12133,4,0,1,-3,False,True,Over distribution: 4/1 (grandfathered)
+34,NJ,Glendora,Camden,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Glenwood,Sussex,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Gloucester,Camden,30,True,True,False,True,False,17,7,0,6,0,True,66034,22,5,8,1,False,False,5 consumption; 1 distribution slots available
+34,NJ,Gloucester City,Camden,18,True,True,False,True,False,15,2,0,1,0,True,11484,3,-12,1,-1,True,True,"Over both: 15/3 cons, 2/1 dist (grandfathered)"
+34,NJ,Great Meadows,Warren,4,True,False,False,False,False,4,0,0,0,0,False,,,,,,,,
+34,NJ,Green,Sussex,2,True,True,False,False,False,1,1,0,0,0,True,3627,1,0,1,0,False,False,At capacity
+34,NJ,Green Brook,Somerset,9,True,True,False,False,False,8,1,0,0,0,True,7281,2,-6,1,0,True,False,Over consumption: 8/2 (grandfathered)
+34,NJ,Greenbrook,Somerset,2,True,False,False,False,False,2,0,0,0,0,False,,,,,,,,
+34,NJ,Greenwich,Cumberland,10,True,True,False,True,False,7,2,0,1,0,True,771,1,-6,1,-1,True,True,"Over both: 7/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Gutenberg,Hudson,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Guttenberg,Hudson,18,True,True,False,False,False,14,4,0,0,0,True,12017,4,-10,1,-3,True,True,"Over both: 14/4 cons, 4/1 dist (grandfathered)"
+34,NJ,Hackensack,Bergen,60,True,True,False,True,False,43,13,0,4,0,True,46030,15,-28,6,-7,True,True,"Over both: 43/15 cons, 13/6 dist (grandfathered)"
+34,NJ,Hackettstown,Morris,15,True,True,False,True,False,9,2,0,4,0,True,10248,3,-6,1,-1,True,True,"Over both: 9/3 cons, 2/1 dist (grandfathered)"
+34,NJ,Haddon,Camden,18,True,True,False,True,False,11,6,0,1,0,True,15407,5,-6,2,-4,True,True,"Over both: 11/5 cons, 6/2 dist (grandfathered)"
+34,NJ,Haddon Heights,Camden,0,False,False,False,False,False,0,0,0,0,0,False,7495,2,2,1,1,False,False,2 consumption; 1 distribution slots available
+34,NJ,Haddonfield,Camden,1,True,False,False,False,False,1,0,0,0,0,False,12550,4,3,1,1,False,False,3 consumption; 1 distribution slots available
+34,NJ,Hainesport,Burlington,6,True,True,False,False,False,4,2,0,0,0,True,6035,2,-2,1,-1,True,True,"Over both: 4/2 cons, 2/1 dist (grandfathered)"
+34,NJ,Haledon,Passaic,13,True,True,False,True,False,9,3,0,1,0,True,9052,3,-6,1,-2,True,True,"Over both: 9/3 cons, 3/1 dist (grandfathered)"
+34,NJ,Hamburg,Sussex,4,True,True,False,False,False,3,1,0,0,0,True,3266,1,-2,1,0,True,False,Over consumption: 3/1 (grandfathered)
+34,NJ,Hamilton,Atlantic,97,True,True,False,True,True,81,8,0,8,4,True,27484,9,-72,3,-5,True,True,"Over both: 81/9 cons, 8/3 dist (grandfathered)"
+34,NJ,Hammonton,Atlantic,24,True,True,False,True,False,20,3,0,1,0,True,14711,4,-16,1,-2,True,True,"Over both: 20/4 cons, 3/1 dist (grandfathered)"
+34,NJ,Hampton,Hunterdon,7,True,True,False,True,False,4,2,0,1,0,True,1438,1,-3,1,-1,True,True,"Over both: 4/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Hanover,Morris,24,True,True,False,True,True,20,1,0,3,3,True,14677,4,-16,1,0,True,False,Over consumption: 20/4 (grandfathered)
+34,NJ,Harding,Morris,3,True,True,False,True,False,1,1,0,1,0,True,3871,1,0,1,0,False,False,At capacity
+34,NJ,Hardwick,Warren,1,True,False,False,False,False,1,0,0,0,0,False,1598,1,0,1,1,False,False,1 distribution slots available
+34,NJ,Hardyston,Sussex,5,True,True,False,False,True,4,1,0,0,1,True,8125,2,-2,1,0,True,False,Over consumption: 4/2 (grandfathered)
+34,NJ,Harmony,Warren,4,True,True,False,False,False,3,1,0,0,0,True,2503,1,-2,1,0,True,False,Over consumption: 3/1 (grandfathered)
+34,NJ,Harrington Park,Bergen,3,True,True,False,True,False,1,1,0,1,0,True,4741,1,0,1,0,False,False,At capacity
+34,NJ,Harrison,Gloucester,46,True,True,True,True,True,36,7,1,2,2,True,19450,6,-30,2,-5,True,True,"Over both: 36/6 cons, 7/2 dist (grandfathered)"
+34,NJ,Harvey Cedars,Ocean,2,True,True,False,False,False,1,1,0,0,0,True,391,1,0,1,0,False,False,At capacity
+34,NJ,Hasbrouck Heights,Bergen,17,True,True,False,True,True,11,4,0,2,4,True,12125,4,-7,1,-3,True,True,"Over both: 11/4 cons, 4/1 dist (grandfathered)"
+34,NJ,Haskell,Passaic,2,True,True,False,False,False,1,1,0,0,0,True,,,,,,,,
+34,NJ,Haven Beach,Ocean,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Haworth,Bergen,4,True,True,False,True,False,2,1,0,1,0,True,3343,1,-1,1,0,True,False,Over consumption: 2/1 (grandfathered)
+34,NJ,Hawthorne,Passaic,18,True,False,False,True,False,16,0,0,2,0,False,19637,6,-10,2,2,True,False,Over consumption: 16/6 (grandfathered)
+34,NJ,Hazlet,Monmouth,21,True,True,False,True,True,16,3,0,2,1,True,20125,6,-10,2,-1,True,True,"Over both: 16/6 cons, 3/2 dist (grandfathered)"
+34,NJ,Helmetta,Middlesex,0,False,False,False,False,False,0,0,0,0,0,False,2455,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Hewitt,Passaic,5,True,False,False,False,False,5,0,0,0,0,False,,,,,,,,
+34,NJ,Hi-Nella,Camden,2,True,True,False,False,False,1,1,0,0,0,True,927,1,0,1,0,False,False,At capacity
+34,NJ,High Bridge,Hunterdon,3,True,True,False,False,False,2,1,0,0,0,True,3546,1,-1,1,0,True,False,Over consumption: 2/1 (grandfathered)
+34,NJ,Highland Lakes,Sussex,1,False,False,True,False,False,0,0,1,0,0,True,,,,,,,,
+34,NJ,Highland Lk,Sussex,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Highland Park,Middlesex,10,True,True,False,True,False,6,3,0,1,0,True,15072,5,-1,2,-1,True,True,"Over both: 6/5 cons, 3/2 dist (grandfathered)"
+34,NJ,Highlands,Monmouth,22,True,True,False,True,False,19,1,0,2,0,True,4621,1,-18,1,0,True,False,Over consumption: 19/1 (grandfathered)
+34,NJ,Hightstown,Mercer,4,True,True,False,True,False,2,1,0,1,0,True,5900,1,-1,1,0,True,False,Over consumption: 2/1 (grandfathered)
+34,NJ,Hills,Somerset,1,True,False,False,False,True,1,0,0,0,1,False,,,,,,,,
+34,NJ,Hillsborough,Somerset,19,True,True,False,True,False,13,5,0,1,0,True,43276,14,1,5,0,False,False,1 consumption slots available
+34,NJ,Hillsdale,Bergen,7,True,True,False,False,False,5,2,0,0,0,True,10143,3,-2,1,-1,True,True,"Over both: 5/3 cons, 2/1 dist (grandfathered)"
+34,NJ,Hillside,Union,14,True,True,False,True,False,8,5,0,1,0,True,22456,7,-1,2,-3,True,True,"Over both: 8/7 cons, 5/2 dist (grandfathered)"
+34,NJ,Ho-Ho-Kus,Bergen,4,True,True,False,False,False,1,3,0,0,0,True,4258,1,0,1,-2,False,True,Over distribution: 3/1 (grandfathered)
+34,NJ,Hoboken,Hudson,133,True,True,False,True,True,102,26,0,5,1,True,60419,20,-82,8,-18,True,True,"Over both: 102/20 cons, 26/8 dist (grandfathered)"
+34,NJ,Holland,Hunterdon,2,False,True,False,True,False,0,1,0,1,0,True,5177,1,1,1,0,False,False,1 consumption slots available
+34,NJ,Holmdel,Monmouth,8,True,True,False,False,True,6,2,0,0,1,True,17400,5,-1,2,0,True,False,Over consumption: 6/5 (grandfathered)
+34,NJ,Hopatcong,Sussex,9,True,False,False,True,False,8,0,0,1,0,False,14362,4,-4,1,1,True,False,Over consumption: 8/4 (grandfathered)
+34,NJ,Hope,Warren,3,True,True,False,True,False,1,1,0,1,0,True,1835,1,0,1,0,False,False,At capacity
+34,NJ,Hopelawn,Middlesex,3,True,True,False,False,False,1,2,0,0,0,True,,,,,,,,
+34,NJ,Hopewell,Cumberland,12,True,True,False,False,False,11,1,0,0,0,True,1918,1,-10,1,0,True,False,Over consumption: 11/1 (grandfathered)
+34,NJ,Howell,Monmouth,22,True,True,False,True,False,14,6,0,2,0,True,53537,17,3,7,1,False,False,3 consumption; 1 distribution slots available
+34,NJ,Independence,Warren,5,True,True,False,True,False,3,1,0,1,0,True,5469,1,-2,1,0,True,False,Over consumption: 3/1 (grandfathered)
+34,NJ,Interlaken,Monmouth,0,False,False,False,False,False,0,0,0,0,0,False,828,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Irvington,Essex,39,True,True,False,True,False,20,17,0,2,0,True,61176,20,0,8,-9,False,True,Over distribution: 17/8 (grandfathered)
+34,NJ,Iselin (Woodbridge),Middlesex,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Island Heights,Ocean,0,False,False,False,False,False,0,0,0,0,0,False,1650,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Islen (Woodbrige),Middlesex,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Jackson,Ocean,24,True,True,False,True,False,12,6,0,6,0,True,58544,19,7,7,1,False,False,7 consumption; 1 distribution slots available
+34,NJ,Jamesburg,Middlesex,7,True,True,False,True,False,3,2,0,2,0,True,5783,1,-2,1,-1,True,True,"Over both: 3/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Jefferson,Morris,16,True,True,False,False,False,15,1,0,0,0,True,20538,6,-9,2,1,True,False,Over consumption: 15/6 (grandfathered)
+34,NJ,Jersey City,Hudson,300,True,True,False,False,True,196,104,0,0,7,True,292449,97,-99,38,-66,True,True,"Over both: 196/97 cons, 104/38 dist (grandfathered)"
+34,NJ,Johnsonburg,Warren,2,True,True,False,False,False,1,1,0,0,0,True,,,,,,,,
+34,NJ,Keansburg,Monmouth,14,True,True,False,True,False,12,1,0,1,0,True,9755,3,-9,1,0,True,False,Over consumption: 12/3 (grandfathered)
+34,NJ,Kearny,Hudson,59,True,True,False,True,False,30,25,0,4,0,True,41999,13,-17,5,-20,True,True,"Over both: 30/13 cons, 25/5 dist (grandfathered)"
+34,NJ,Kenilworth,Union,14,True,True,False,True,True,11,1,0,2,1,True,8427,2,-9,1,0,True,False,Over consumption: 11/2 (grandfathered)
+34,NJ,Kennilworth,Union,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Keyport,Monmouth,16,True,True,False,True,False,11,1,0,4,0,True,7204,2,-9,1,0,True,False,Over consumption: 11/2 (grandfathered)
+34,NJ,Kingston,Somerset,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Kingwood,Hunterdon,6,True,True,False,True,False,4,1,0,1,0,True,3802,1,-3,1,0,True,False,Over consumption: 4/1 (grandfathered)
+34,NJ,Kinnelon,Morris,4,True,True,False,False,False,3,1,0,0,0,True,9966,3,0,1,0,False,False,At capacity
+34,NJ,Knowlton,Warren,1,True,False,False,False,False,1,0,0,0,0,False,2894,1,0,1,1,False,False,1 distribution slots available
+34,NJ,Lacey,Ocean,15,True,True,False,True,False,8,3,0,4,0,True,28655,9,1,3,0,False,False,1 consumption slots available
+34,NJ,Lafayette,Sussex,2,True,True,False,False,False,1,1,0,0,0,True,2358,1,0,1,0,False,False,At capacity
+34,NJ,Lake Como,Monmouth,9,True,True,False,False,False,6,3,0,0,0,True,1697,1,-5,1,-2,True,True,"Over both: 6/1 cons, 3/1 dist (grandfathered)"
+34,NJ,Lake Hiawatha,Morris,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Lake Hopatcong,Morris,6,True,False,False,True,False,5,0,0,1,0,False,,,,,,,,
+34,NJ,Lakehurst,Ocean,7,True,True,False,True,False,4,1,0,2,0,True,2636,1,-3,1,0,True,False,Over consumption: 4/1 (grandfathered)
+34,NJ,Lakewood,Ocean,38,True,True,False,True,True,21,14,0,3,1,True,135158,45,24,18,4,False,False,24 consumption; 4 distribution slots available
+34,NJ,Lambertville,Hunterdon,13,True,True,False,True,False,9,2,0,2,0,True,4139,1,-8,1,-1,True,True,"Over both: 9/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Landing,Morris,2,False,True,False,True,False,0,1,0,1,0,True,,,,,,,,
+34,NJ,Landisville,Atlantic,2,True,False,False,False,False,2,0,0,0,0,False,,,,,,,,
+34,NJ,Laurel Springs,Camden,3,True,True,False,False,False,2,1,0,0,0,True,1978,1,-1,1,0,True,False,Over consumption: 2/1 (grandfathered)
+34,NJ,Lavallette,Ocean,6,True,True,False,True,False,3,2,0,1,0,True,1787,1,-2,1,-1,True,True,"Over both: 3/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Lawnside,Camden,2,True,True,False,False,False,1,1,0,0,0,True,2955,1,0,1,0,False,False,At capacity
+34,NJ,Lawrence,Mercer,28,True,True,False,True,True,20,4,0,4,4,True,3087,1,-19,1,-3,True,True,"Over both: 20/1 cons, 4/1 dist (grandfathered)"
+34,NJ,Layton,Sussex,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Lebanon,Hunterdon,8,True,True,False,False,True,6,2,0,0,1,True,1665,1,-5,1,-1,True,True,"Over both: 6/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Ledgewood,Morris,11,True,True,False,False,True,8,3,0,0,1,True,,,,,,,,
+34,NJ,Leonardo,Monmouth,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Leonia,Bergen,3,False,True,False,False,False,0,3,0,0,0,True,9304,3,3,1,-2,False,True,Over distribution: 3/1 (grandfathered)
+34,NJ,Liberty,Warren,2,True,True,False,False,False,1,1,0,0,0,True,2670,1,0,1,0,False,False,At capacity
+34,NJ,Liberty Townshp,Warren,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Lincoln Park,Morris,7,True,True,False,True,False,4,2,0,1,0,True,10915,3,-1,1,-1,True,True,"Over both: 4/3 cons, 2/1 dist (grandfathered)"
+34,NJ,Lincoln Pk,Morris,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Lindcroft,Monmouth,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Linden,Union,47,True,True,False,True,True,37,6,0,4,1,True,43738,14,-23,5,-1,True,True,"Over both: 37/14 cons, 6/5 dist (grandfathered)"
+34,NJ,Lindenwold,Camden,11,True,True,False,True,False,8,2,0,1,0,True,21641,7,-1,2,0,True,False,Over consumption: 8/7 (grandfathered)
+34,NJ,Linwood,Atlantic,2,True,False,False,False,False,2,0,0,0,0,False,6971,2,0,1,1,False,False,1 distribution slots available
+34,NJ,Littel Ferry,Bergen,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Little Egg Harbor,Ocean,6,True,True,False,False,False,4,2,0,0,0,True,20784,6,2,2,0,False,False,2 consumption slots available
+34,NJ,Little Egg Hbr,Ocean,2,False,False,False,True,False,0,0,0,2,0,False,,,,,,,,
+34,NJ,Little Falls,Passaic,16,True,True,False,True,False,13,1,0,2,0,True,13360,4,-9,1,0,True,False,Over consumption: 13/4 (grandfathered)
+34,NJ,Little Ferry,Bergen,15,True,True,False,True,False,11,2,0,2,0,True,10987,3,-8,1,-1,True,True,"Over both: 11/3 cons, 2/1 dist (grandfathered)"
+34,NJ,Little Silver,Monmouth,3,True,True,True,False,False,1,1,1,0,0,True,6131,2,1,1,0,False,False,1 consumption slots available
+34,NJ,Livingston,Essex,19,True,True,False,True,True,12,4,0,3,1,True,31330,10,-2,4,0,True,False,Over consumption: 12/10 (grandfathered)
+34,NJ,Loch Arbour,Monmouth,2,True,True,False,False,False,1,1,0,0,0,True,224,1,0,1,0,False,False,At capacity
+34,NJ,Lodi,Bergen,28,True,True,False,True,False,14,9,0,5,0,True,26206,8,-6,3,-6,True,True,"Over both: 14/8 cons, 9/3 dist (grandfathered)"
+34,NJ,Logan,Gloucester,5,True,True,False,False,True,4,1,0,0,2,True,6000,2,-2,1,0,True,False,Over consumption: 4/2 (grandfathered)
+34,NJ,Long Beach,Ocean,3,True,True,False,False,False,2,1,0,0,0,True,3153,1,-1,1,0,True,False,Over consumption: 2/1 (grandfathered)
+34,NJ,Long Branch,Monmouth,60,True,True,False,True,True,48,7,0,5,1,True,31667,10,-38,4,-3,True,True,"Over both: 48/10 cons, 7/4 dist (grandfathered)"
+34,NJ,Long Branch Westend,Monmouth,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Long Hill,Morris,2,True,True,False,False,False,1,1,0,0,0,True,8629,2,1,1,0,False,False,1 consumption slots available
+34,NJ,Long Valley,Morris,5,True,True,False,False,False,4,1,0,0,0,True,,,,,,,,
+34,NJ,Longhill,Morris,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Longport,Atlantic,2,True,False,False,False,False,2,0,0,0,0,False,893,1,-1,1,1,True,False,Over consumption: 2/1 (grandfathered)
+34,NJ,Lopatcong,Warren,3,True,True,False,False,False,2,1,0,0,0,True,8776,2,0,1,0,False,False,At capacity
+34,NJ,Lower,Cape May,20,True,True,False,True,True,15,1,0,4,1,True,22057,7,-8,2,1,True,False,Over consumption: 15/7 (grandfathered)
+34,NJ,Lower Alloways Creek,,0,False,False,False,False,False,0,0,0,0,0,False,1717,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Lumberton,Burlington,6,True,True,False,False,True,5,1,0,0,1,True,12803,4,-1,1,0,True,False,Over consumption: 5/4 (grandfathered)
+34,NJ,Lydhust,Bergen,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Lyndhurst,Bergen,39,True,True,False,True,True,23,10,0,6,1,True,22519,7,-16,3,-7,True,True,"Over both: 23/7 cons, 10/3 dist (grandfathered)"
+34,NJ,Madison,Morris,20,True,True,False,True,False,8,8,0,4,0,True,16937,5,-3,2,-6,True,True,"Over both: 8/5 cons, 8/2 dist (grandfathered)"
+34,NJ,Magnolia,Camden,6,True,True,False,True,False,3,1,0,2,0,True,4352,1,-2,1,0,True,False,Over consumption: 3/1 (grandfathered)
+34,NJ,Mahwah,Bergen,18,True,True,False,True,True,14,3,0,1,4,True,25487,8,-6,3,0,True,False,Over consumption: 14/8 (grandfathered)
+34,NJ,Manahawkin (Township Of Stafford),Ocean,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Manalapan,Monmouth,15,True,True,False,True,False,10,4,0,1,0,True,40905,13,3,5,1,False,False,3 consumption; 1 distribution slots available
+34,NJ,Manasquan,Monmouth,13,True,True,False,True,True,8,3,0,2,1,True,5938,1,-7,1,-2,True,True,"Over both: 8/1 cons, 3/1 dist (grandfathered)"
+34,NJ,Manchester,Ocean,14,True,True,False,False,False,8,6,0,0,0,True,45115,15,7,6,0,False,False,7 consumption slots available
+34,NJ,Mannington,,0,False,False,False,False,False,0,0,0,0,0,False,1475,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Mansfield,Burlington,6,True,True,False,False,False,4,2,0,0,0,True,8897,2,-2,1,-1,True,True,"Over both: 4/2 cons, 2/1 dist (grandfathered)"
+34,NJ,Mantoloking,Ocean,1,True,False,False,False,False,1,0,0,0,0,False,331,1,0,1,1,False,False,1 distribution slots available
+34,NJ,Mantua,Gloucester,12,True,True,False,True,False,7,4,0,1,0,True,15235,5,-2,2,-2,True,True,"Over both: 7/5 cons, 4/2 dist (grandfathered)"
+34,NJ,Manville,Somerset,15,True,True,False,True,False,11,2,0,2,0,True,10953,3,-8,1,-1,True,True,"Over both: 11/3 cons, 2/1 dist (grandfathered)"
+34,NJ,Maple Shade,Burlington,21,True,True,False,True,False,16,2,0,3,0,True,19980,6,-10,2,0,True,False,Over consumption: 16/6 (grandfathered)
+34,NJ,Maplewood,Essex,18,True,True,False,True,False,8,8,0,2,0,True,25684,8,0,3,-5,False,True,Over distribution: 8/3 (grandfathered)
+34,NJ,Margate City,Atlantic,18,True,True,False,True,False,14,3,0,1,0,True,5317,1,-13,1,-2,True,True,"Over both: 14/1 cons, 3/1 dist (grandfathered)"
+34,NJ,Marlboro,Monmouth,16,True,True,False,False,False,12,4,0,0,0,True,41502,13,1,5,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Marmora,Cape May,3,True,True,False,False,False,2,1,0,0,0,True,,,,,,,,
+34,NJ,Martinsville,Somerset,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Matawan,Middlesex,19,True,True,False,True,False,13,4,0,2,0,True,9565,3,-10,1,-3,True,True,"Over both: 13/3 cons, 4/1 dist (grandfathered)"
+34,NJ,Maurice River,,0,False,False,False,False,False,0,0,0,0,0,False,6218,2,2,1,1,False,False,2 consumption; 1 distribution slots available
+34,NJ,May Landing,Atlantic,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Mays Landing (Hamilton),Atlantic,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Mayslanding,Atlantic,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Maywood,Bergen,10,True,True,False,True,False,4,4,0,2,0,True,10080,3,-1,1,-3,True,True,"Over both: 4/3 cons, 4/1 dist (grandfathered)"
+34,NJ,Mcafee,Sussex,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Medford,Burlington,12,True,True,False,True,False,8,3,0,1,0,True,24497,8,0,3,0,False,False,At capacity
+34,NJ,Medford Lakes,Burlington,2,True,False,False,True,False,1,0,0,1,0,False,4264,1,0,1,1,False,False,1 distribution slots available
+34,NJ,Mendham,Morris,7,True,True,False,True,False,3,1,0,3,0,True,4981,1,-2,1,0,True,False,Over consumption: 3/1 (grandfathered)
+34,NJ,Merchantvile,Camden,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Merchantville,Camden,2,True,True,False,False,False,1,1,0,0,0,True,3820,1,0,1,0,False,False,At capacity
+34,NJ,Metuchen,Middlesex,12,True,True,False,True,False,7,3,0,2,0,True,15049,5,-2,2,-1,True,True,"Over both: 7/5 cons, 3/2 dist (grandfathered)"
+34,NJ,Middle,Cape May,7,True,True,False,True,False,4,1,0,2,0,True,20380,6,2,2,1,False,False,2 consumption; 1 distribution slots available
+34,NJ,Middlesex,Middlesex,12,True,True,False,True,False,8,2,0,2,0,True,14636,4,-4,1,-1,True,True,"Over both: 8/4 cons, 2/1 dist (grandfathered)"
+34,NJ,Middletown,Monmouth,31,True,True,True,True,True,21,7,1,2,1,True,67106,22,1,8,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Midland Park,Bergen,4,True,True,False,True,False,2,1,0,1,0,True,7014,2,0,1,0,False,False,At capacity
+34,NJ,Milford,Hunterdon,7,True,True,False,True,False,4,1,0,2,0,True,1232,1,-3,1,0,True,False,Over consumption: 4/1 (grandfathered)
+34,NJ,Millburn,Essex,18,True,True,False,True,True,11,4,0,3,1,True,21710,7,-4,2,-2,True,True,"Over both: 11/7 cons, 4/2 dist (grandfathered)"
+34,NJ,Millington,Morris,1,False,False,True,False,False,0,0,1,0,0,True,,,,,,,,
+34,NJ,Millstone,Monmouth,6,True,True,False,True,False,4,1,0,1,0,True,448,1,-3,1,0,True,False,Over consumption: 4/1 (grandfathered)
+34,NJ,Milltown,Middlesex,9,True,True,False,True,False,5,1,0,3,0,True,7037,2,-3,1,0,True,False,Over consumption: 5/2 (grandfathered)
+34,NJ,Millville,Cumberland,24,True,True,False,True,True,16,3,0,5,1,True,27491,9,-7,3,0,True,False,Over consumption: 16/9 (grandfathered)
+34,NJ,Mine Hill,Morris,6,True,True,False,False,False,5,1,0,0,0,True,4015,1,-4,1,0,True,False,Over consumption: 5/1 (grandfathered)
+34,NJ,Minotola,Atlantic,2,False,True,False,True,False,0,1,0,1,0,True,,,,,,,,
+34,NJ,Mizpah,Atlantic,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Monmouth Beach,Monmouth,4,True,True,False,True,False,2,1,0,1,0,True,3174,1,-1,1,0,True,False,Over consumption: 2/1 (grandfathered)
+34,NJ,Monmouth Jct,Middlesex,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Monroe,Gloucester,35,True,True,False,True,True,26,5,0,4,1,True,37117,12,-14,4,-1,True,True,"Over both: 26/12 cons, 5/4 dist (grandfathered)"
+34,NJ,Montague,Sussex,5,True,True,False,False,False,4,1,0,0,0,True,3792,1,-3,1,0,True,False,Over consumption: 4/1 (grandfathered)
+34,NJ,Montclair,Essex,27,True,True,False,False,True,16,11,0,0,1,True,40921,13,-3,5,-6,True,True,"Over both: 16/13 cons, 11/5 dist (grandfathered)"
+34,NJ,Montgomery,Somerset,4,True,True,False,False,False,2,2,0,0,0,True,23690,7,5,3,1,False,False,5 consumption; 1 distribution slots available
+34,NJ,Montvale,Bergen,8,True,True,False,True,True,5,2,0,1,1,True,8436,2,-3,1,-1,True,True,"Over both: 5/2 cons, 2/1 dist (grandfathered)"
+34,NJ,Montville,Morris,6,True,True,False,False,False,5,1,0,0,0,True,22450,7,2,2,1,False,False,2 consumption; 1 distribution slots available
+34,NJ,Moonachie,Bergen,8,True,True,False,False,False,7,1,0,0,0,True,3133,1,-6,1,0,True,False,Over consumption: 7/1 (grandfathered)
+34,NJ,Moorestown,Burlington,10,True,True,False,True,False,8,1,0,1,0,True,21355,7,-1,2,1,True,False,Over consumption: 8/7 (grandfathered)
+34,NJ,Moristown,Morris,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Morris,Morris,7,True,True,False,False,True,5,2,0,0,1,True,22974,7,2,3,1,False,False,2 consumption; 1 distribution slots available
+34,NJ,Morris Plains,Morris,6,True,True,False,True,False,3,2,0,1,0,True,6153,2,-1,1,-1,True,True,"Over both: 3/2 cons, 2/1 dist (grandfathered)"
+34,NJ,Morris Plains (Parsippany,Morris,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Morristown,Morris,46,True,True,False,True,True,26,14,0,6,2,True,20180,6,-20,2,-12,True,True,"Over both: 26/6 cons, 14/2 dist (grandfathered)"
+34,NJ,Mount Arlington,Morris,7,True,True,False,True,True,5,1,0,1,1,True,5909,1,-4,1,0,True,False,Over consumption: 5/1 (grandfathered)
+34,NJ,Mount Ephraim,Camden,6,True,True,False,True,False,4,1,0,1,0,True,4651,1,-3,1,0,True,False,Over consumption: 4/1 (grandfathered)
+34,NJ,Mount Holly,Burlington,14,True,True,False,True,False,8,3,0,3,0,True,9981,3,-5,1,-2,True,True,"Over both: 8/3 cons, 3/1 dist (grandfathered)"
+34,NJ,Mount Laurel,Burlington,33,True,True,False,True,True,26,6,0,1,13,True,44633,14,-12,5,-1,True,True,"Over both: 26/14 cons, 6/5 dist (grandfathered)"
+34,NJ,Mount Olive,Morris,21,True,True,False,False,True,17,4,0,0,2,True,28886,9,-8,3,-1,True,True,"Over both: 17/9 cons, 4/3 dist (grandfathered)"
+34,NJ,Mount Royal,Gloucester,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Mountain Lakes,Morris,6,True,True,False,True,False,3,2,0,1,0,True,4472,1,-2,1,-1,True,True,"Over both: 3/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Mountainside,Union,10,True,True,False,True,False,8,1,0,1,0,True,7020,2,-6,1,0,True,False,Over consumption: 8/2 (grandfathered)
+34,NJ,Mt.Laurel,Burlington,1,True,False,False,False,True,1,0,0,0,1,False,,,,,,,,
+34,NJ,Mullica,Atlantic,7,True,True,False,False,False,6,1,0,0,0,True,5816,1,-5,1,0,True,False,Over consumption: 6/1 (grandfathered)
+34,NJ,Mullica Hill,Gloucester,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,N Middletown,Monmouth,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,N. Brunswick,Middlesex,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,National Park,Gloucester,8,True,True,False,True,False,4,1,0,3,0,True,3026,1,-3,1,0,True,False,Over consumption: 4/1 (grandfathered)
+34,NJ,Neptune,Monmouth,29,True,True,False,True,True,19,6,0,4,2,True,28061,9,-10,3,-3,True,True,"Over both: 19/9 cons, 6/3 dist (grandfathered)"
+34,NJ,Neptune City,Monmouth,7,True,True,False,False,False,5,2,0,0,0,True,4626,1,-4,1,-1,True,True,"Over both: 5/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Netcong,Morris,10,True,True,False,True,False,5,3,0,2,0,True,3375,1,-4,1,-2,True,True,"Over both: 5/1 cons, 3/1 dist (grandfathered)"
+34,NJ,New Brunswick,Middlesex,76,True,True,False,True,True,66,7,0,3,2,True,55266,18,-48,7,0,True,False,Over consumption: 66/18 (grandfathered)
+34,NJ,New Bruswick,Middlesex,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,New Egypt,Ocean,2,True,False,False,True,False,1,0,0,1,0,False,,,,,,,,
+34,NJ,New Egypt Plumsted,Ocean,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,New Gretna,Burlington,2,True,True,False,False,False,1,1,0,0,0,True,,,,,,,,
+34,NJ,New Hanover,,0,False,False,False,False,False,0,0,0,0,0,False,6367,2,2,1,1,False,False,2 consumption; 1 distribution slots available
+34,NJ,New Lisbon,Burlington,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,New Milford,Bergen,11,True,True,False,True,False,5,2,0,4,0,True,16923,5,0,2,0,False,False,At capacity
+34,NJ,New Providence,Union,8,True,True,False,True,False,4,3,0,1,0,True,13650,4,0,1,-2,False,True,Over distribution: 3/1 (grandfathered)
+34,NJ,Newark,Essex,362,True,True,False,True,True,245,91,0,26,5,True,311549,103,-142,41,-50,True,True,"Over both: 245/103 cons, 91/41 dist (grandfathered)"
+34,NJ,Newfield,Gloucester,2,True,True,False,False,False,1,1,0,0,0,True,1774,1,0,1,0,False,False,At capacity
+34,NJ,Newfoundland,Passaic,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Newton,Sussex,23,True,True,False,True,False,19,2,0,2,0,True,8374,2,-17,1,-1,True,True,"Over both: 19/2 cons, 2/1 dist (grandfathered)"
+34,NJ,No Bergen,Hudson,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Normandy Beach,Ocean,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,North Arlington,Bergen,24,True,True,False,True,False,14,7,0,3,0,True,16457,5,-9,2,-5,True,True,"Over both: 14/5 cons, 7/2 dist (grandfathered)"
+34,NJ,North Bergen,Hudson,61,True,True,True,True,True,39,13,6,3,2,True,63361,21,-18,8,-5,True,True,"Over both: 39/21 cons, 13/8 dist (grandfathered)"
+34,NJ,North Branch,Somerset,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,North Brunswick,Middlesex,23,True,True,False,True,True,17,5,0,1,3,True,43905,14,-3,5,0,True,False,Over consumption: 17/14 (grandfathered)
+34,NJ,North Caldwell,Essex,3,True,True,False,False,False,2,1,0,0,0,True,6694,2,0,1,0,False,False,At capacity
+34,NJ,North Cape May,Cape May,2,True,True,False,False,False,1,1,0,0,0,True,,,,,,,,
+34,NJ,North Haledon,Passaic,6,True,True,False,False,False,5,1,0,0,0,True,8927,2,-3,1,0,True,False,Over consumption: 5/2 (grandfathered)
+34,NJ,North Hanover,Burlington,2,True,False,False,False,False,2,0,0,0,0,False,7963,2,0,1,1,False,False,1 distribution slots available
+34,NJ,North Plainfield,Somerset,11,True,True,False,False,False,7,4,0,0,0,True,22808,7,0,3,-1,False,True,Over distribution: 4/3 (grandfathered)
+34,NJ,North Widwood,Cape May,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,North Wildwood,Cape May,24,True,True,False,True,True,20,1,0,3,2,True,3621,1,-19,1,0,True,False,Over consumption: 20/1 (grandfathered)
+34,NJ,Northfield,Atlantic,3,True,True,False,False,False,2,1,0,0,0,True,8434,2,0,1,0,False,False,At capacity
+34,NJ,Northvale,Bergen,11,True,True,False,True,False,6,3,0,2,0,True,4761,1,-5,1,-2,True,True,"Over both: 6/1 cons, 3/1 dist (grandfathered)"
+34,NJ,Norwood,Bergen,8,True,True,False,True,False,6,1,0,1,0,True,5641,1,-5,1,0,True,False,Over consumption: 6/1 (grandfathered)
+34,NJ,Nutley,Essex,23,True,True,False,True,False,16,3,0,4,0,True,30143,10,-6,4,1,True,False,Over consumption: 16/10 (grandfathered)
+34,NJ,Oakhurst,Monmouth,7,True,True,False,False,True,6,1,0,0,1,True,,,,,,,,
+34,NJ,Oakland,Bergen,15,True,True,False,True,False,10,2,0,3,0,True,12748,4,-6,1,-1,True,True,"Over both: 10/4 cons, 2/1 dist (grandfathered)"
+34,NJ,Oaklyn,Camden,9,True,True,False,True,False,5,1,0,3,0,True,3930,1,-4,1,0,True,False,Over consumption: 5/1 (grandfathered)
+34,NJ,Ocean,Monmouth,18,True,True,False,True,False,10,4,0,4,0,True,27672,9,-1,3,-1,True,True,"Over both: 10/9 cons, 4/3 dist (grandfathered)"
+34,NJ,Ocean City,Cape May,0,False,False,False,False,False,0,0,0,0,0,False,11229,3,3,1,1,False,False,3 consumption; 1 distribution slots available
+34,NJ,Ocean Gate,Ocean,3,True,False,False,True,False,2,0,0,1,0,False,1932,1,-1,1,1,True,False,Over consumption: 2/1 (grandfathered)
+34,NJ,Ocean View,Cape May,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Oceanport,Monmouth,5,True,True,False,False,False,4,1,0,0,0,True,6150,2,-2,1,0,True,False,Over consumption: 4/2 (grandfathered)
+34,NJ,Ogdensburg,Sussex,4,True,True,False,True,False,2,1,0,1,0,True,2258,1,-1,1,0,True,False,Over consumption: 2/1 (grandfathered)
+34,NJ,Old Bridge,Middlesex,40,True,True,False,True,True,26,8,0,6,1,True,66876,22,-4,8,0,True,False,Over consumption: 26/22 (grandfathered)
+34,NJ,Old Tappan,Bergen,4,True,True,False,False,False,3,1,0,0,0,True,5888,1,-2,1,0,True,False,Over consumption: 3/1 (grandfathered)
+34,NJ,Old Tappan Road,Bergen,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Oldmans,,0,False,False,False,False,False,0,0,0,0,0,False,1910,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Oradell,Bergen,6,True,True,False,True,False,3,2,0,1,0,True,8244,2,-1,1,-1,True,True,"Over both: 3/2 cons, 2/1 dist (grandfathered)"
+34,NJ,Oxford,Warren,3,True,True,False,True,False,1,1,0,1,0,True,2444,1,0,1,0,False,False,At capacity
+34,NJ,Palisade Park,Bergen,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Palisades Park,Bergen,29,True,True,False,True,False,18,10,0,1,0,True,20292,6,-12,2,-8,True,True,"Over both: 18/6 cons, 10/2 dist (grandfathered)"
+34,NJ,Palmyra,Burlington,5,True,True,False,False,False,3,2,0,0,0,True,7438,2,-1,1,-1,True,True,"Over both: 3/2 cons, 2/1 dist (grandfathered)"
+34,NJ,Paramus,Bergen,44,True,True,True,True,True,35,4,1,4,3,True,26698,8,-27,3,-1,True,True,"Over both: 35/8 cons, 4/3 dist (grandfathered)"
+34,NJ,Park Ridge,Bergen,12,True,True,False,True,True,6,1,0,5,1,True,8883,2,-4,1,0,True,False,Over consumption: 6/2 (grandfathered)
+34,NJ,Parsippant-Troy Hills,Morris,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Parsippany (Hanover Twp),Morris,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Parsippany Troy,Morris,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Parsippany Troy Hills,Morris,8,True,True,False,True,True,6,1,0,1,1,True,,,,,,,,
+34,NJ,Parsippany-Troy Hills,Morris,32,True,True,False,True,True,25,4,0,3,8,True,56162,18,-7,7,3,True,False,Over consumption: 25/18 (grandfathered)
+34,NJ,Passaic,Passaic,74,True,True,False,True,False,52,18,0,4,0,True,70537,23,-29,9,-9,True,True,"Over both: 52/23 cons, 18/9 dist (grandfathered)"
+34,NJ,Passic,Passaic,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Paterson,Passaic,176,True,True,False,True,False,120,55,0,1,0,True,159732,53,-67,21,-34,True,True,"Over both: 120/53 cons, 55/21 dist (grandfathered)"
+34,NJ,Paulsboro,Gloucester,13,True,True,False,True,False,8,2,0,3,0,True,6196,2,-6,1,-1,True,True,"Over both: 8/2 cons, 2/1 dist (grandfathered)"
+34,NJ,Peapack And Gladstone,Somerset,2,True,True,False,False,False,1,1,0,0,0,True,2558,1,0,1,0,False,False,At capacity
+34,NJ,Peapack-Gladstone,Somerset,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Pemberton,Burlington,14,True,False,False,True,False,12,0,0,2,0,False,1371,1,-11,1,1,True,False,Over consumption: 12/1 (grandfathered)
+34,NJ,Pennington,Mercer,3,True,True,False,False,False,2,1,0,0,0,True,2802,1,-1,1,0,True,False,Over consumption: 2/1 (grandfathered)
+34,NJ,Pennington (Hopewell Township),Mercer,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Penns Grove,Salem,7,True,True,False,True,False,4,2,0,1,0,True,4837,1,-3,1,-1,True,True,"Over both: 4/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Pennsauken,Camden,31,True,True,False,True,False,22,8,0,1,0,True,37074,12,-10,4,-4,True,True,"Over both: 22/12 cons, 8/4 dist (grandfathered)"
+34,NJ,Pennsgrove,Salem,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Pennsville,Salem,13,True,True,False,True,True,9,2,0,2,1,True,12684,4,-5,1,-1,True,True,"Over both: 9/4 cons, 2/1 dist (grandfathered)"
+34,NJ,Pequannock,Morris,5,True,False,False,True,False,3,0,0,2,0,False,15571,5,2,2,2,False,False,2 consumption; 2 distribution slots available
+34,NJ,Perth Amboy,Middlesex,58,True,True,False,True,False,52,1,0,5,0,True,55436,18,-34,7,6,True,False,Over consumption: 52/18 (grandfathered)
+34,NJ,Phillipsburg,Warren,29,True,True,False,True,False,21,4,0,4,0,True,15249,5,-16,2,-2,True,True,"Over both: 21/5 cons, 4/2 dist (grandfathered)"
+34,NJ,Pilesgrove,Salem,2,True,False,False,False,False,2,0,0,0,0,False,4183,1,-1,1,1,True,False,Over consumption: 2/1 (grandfathered)
+34,NJ,Pine Beach,Ocean,3,True,True,False,True,False,1,1,0,1,0,True,2139,1,0,1,0,False,False,At capacity
+34,NJ,Pine Brook,Morris,10,True,True,False,False,False,9,1,0,0,0,True,,,,,,,,
+34,NJ,Pine Hill,Camden,6,True,True,False,False,False,4,2,0,0,0,True,10743,3,-1,1,-1,True,True,"Over both: 4/3 cons, 2/1 dist (grandfathered)"
+34,NJ,Pine Valley,Camden,1,False,False,False,True,False,0,0,0,1,0,False,21,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Piscataway,Middlesex,24,True,True,False,True,True,17,4,0,3,3,True,60804,20,3,8,4,False,False,3 consumption; 4 distribution slots available
+34,NJ,Pitman,Gloucester,3,True,False,False,False,False,3,0,0,0,0,False,8780,2,-1,1,1,True,False,Over consumption: 3/2 (grandfathered)
+34,NJ,Pittsgrove,Salem,6,True,True,False,True,False,4,1,0,1,0,True,8777,2,-2,1,0,True,False,Over consumption: 4/2 (grandfathered)
+34,NJ,Pittstown,Hunterdon,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Plainfield,Union,29,True,True,False,True,False,14,12,0,3,0,True,54586,18,4,7,-5,False,True,Over distribution: 12/7 (grandfathered)
+34,NJ,Plainsboro,Middlesex,10,True,True,False,False,True,8,2,0,0,5,True,24084,8,0,3,1,False,False,1 distribution slots available
+34,NJ,Plainsfield,Union,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Pleasantville,Atlantic,12,True,True,False,True,False,7,3,0,2,0,True,20629,6,-1,2,-1,True,True,"Over both: 7/6 cons, 3/2 dist (grandfathered)"
+34,NJ,Pluckemin,Somerset,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Plumstead,Ocean,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Plumsted,Ocean,1,False,True,False,False,False,0,1,0,0,0,True,8072,2,2,1,0,False,False,2 consumption slots available
+34,NJ,Pohatcong,Warren,2,True,True,False,False,False,1,1,0,0,0,True,3241,1,0,1,0,False,False,At capacity
+34,NJ,Point Pleasant,Ocean,15,True,True,False,True,False,9,3,0,3,0,True,18941,6,-3,2,-1,True,True,"Over both: 9/6 cons, 3/2 dist (grandfathered)"
+34,NJ,Point Pleasant Beach,Ocean,19,True,True,False,True,False,15,2,0,2,0,True,4766,1,-14,1,-1,True,True,"Over both: 15/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Pomona,Atlantic,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Pompton Lakes,Passaic,13,True,True,False,True,False,5,6,0,2,0,True,11127,3,-2,1,-5,True,True,"Over both: 5/3 cons, 6/1 dist (grandfathered)"
+34,NJ,Pompton Plains,Morris,6,True,True,False,True,True,3,2,0,1,1,True,,,,,,,,
+34,NJ,Pompton Plns,Morris,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Port Elizabeth,Cumberland,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Port Monmouth,Monmouth,2,True,False,False,True,False,1,0,0,1,0,False,,,,,,,,
+34,NJ,Port Norris,Cumberland,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Port Republic,Atlantic,0,False,False,False,False,False,0,0,0,0,0,False,1101,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Princeton,Mercer,38,True,True,False,True,True,23,7,0,8,2,True,30681,10,-13,4,-3,True,True,"Over both: 23/10 cons, 7/4 dist (grandfathered)"
+34,NJ,Prospect Park,Passaic,0,False,False,False,False,False,0,0,0,0,0,False,6372,2,2,1,1,False,False,2 consumption; 1 distribution slots available
+34,NJ,Quinton,Salem,1,True,False,False,False,False,1,0,0,0,0,False,2580,1,0,1,1,False,False,1 distribution slots available
+34,NJ,Rahway,Union,31,True,True,False,True,True,22,5,0,4,1,True,29556,9,-13,3,-2,True,True,"Over both: 22/9 cons, 5/3 dist (grandfathered)"
+34,NJ,Ramsey,Bergen,15,True,True,False,True,True,12,2,0,1,1,True,14798,4,-8,1,-1,True,True,"Over both: 12/4 cons, 2/1 dist (grandfathered)"
+34,NJ,Randolph,Morris,19,True,True,False,False,False,16,3,0,0,0,True,26504,8,-8,3,0,True,False,Over consumption: 16/8 (grandfathered)
+34,NJ,Raritan,Hunterdon,18,True,True,False,True,True,10,6,0,2,1,True,7835,2,-8,1,-5,True,True,"Over both: 10/2 cons, 6/1 dist (grandfathered)"
+34,NJ,Readington,Hunterdon,5,True,True,False,True,False,2,1,0,2,0,True,16128,5,3,2,1,False,False,3 consumption; 1 distribution slots available
+34,NJ,Red Bank,Monmouth,42,True,True,False,True,False,26,13,0,3,0,True,12936,4,-22,1,-12,True,True,"Over both: 26/4 cons, 13/1 dist (grandfathered)"
+34,NJ,Ridgefield,Bergen,14,True,True,False,False,False,12,2,0,0,0,True,11501,3,-9,1,-1,True,True,"Over both: 12/3 cons, 2/1 dist (grandfathered)"
+34,NJ,Ridgefield Park,Bergen,13,True,True,True,True,True,6,4,1,2,1,True,13224,4,-2,1,-3,True,True,"Over both: 6/4 cons, 4/1 dist (grandfathered)"
+34,NJ,Ridgewood,Bergen,17,True,True,False,True,False,8,7,0,2,0,True,25979,8,0,3,-4,False,True,Over distribution: 7/3 (grandfathered)
+34,NJ,Ringoes,Hunterdon,2,True,False,False,True,False,1,0,0,1,0,False,,,,,,,,
+34,NJ,Ringwood,Passaic,7,True,True,False,True,False,5,1,0,1,0,True,11735,3,-2,1,0,True,False,Over consumption: 5/3 (grandfathered)
+34,NJ,Rio Grande,Cape May,2,True,True,False,False,False,1,1,0,0,0,True,,,,,,,,
+34,NJ,River Edge,Bergen,7,True,True,False,True,False,3,3,0,1,0,True,12049,4,1,1,-2,False,True,Over distribution: 3/1 (grandfathered)
+34,NJ,River Vale,Bergen,6,True,True,False,False,False,5,1,0,0,0,True,9909,3,-2,1,0,True,False,Over consumption: 5/3 (grandfathered)
+34,NJ,Riverdale,Morris,7,True,True,False,False,False,6,1,0,0,0,True,4107,1,-5,1,0,True,False,Over consumption: 6/1 (grandfathered)
+34,NJ,Riverside,Burlington,12,True,True,False,True,False,7,3,0,2,0,True,8003,2,-5,1,-2,True,True,"Over both: 7/2 cons, 3/1 dist (grandfathered)"
+34,NJ,Riverton,Burlington,0,False,False,False,False,False,0,0,0,0,0,False,2764,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Robbinsville,Mercer,10,True,True,False,True,True,7,2,0,1,1,True,15476,5,-2,2,0,True,False,Over consumption: 7/5 (grandfathered)
+34,NJ,Rochelle Park,Bergen,13,True,True,False,True,False,7,4,0,2,0,True,5814,1,-6,1,-3,True,True,"Over both: 7/1 cons, 4/1 dist (grandfathered)"
+34,NJ,Rockaway,Morris,33,True,True,False,True,True,26,3,0,4,1,True,6598,2,-24,1,-2,True,True,"Over both: 26/2 cons, 3/1 dist (grandfathered)"
+34,NJ,Rockleigh,Bergen,1,True,False,False,False,False,1,0,0,0,0,False,407,1,0,1,1,False,False,1 distribution slots available
+34,NJ,Rocky Hill,Somerset,2,True,False,False,False,False,2,0,0,0,0,False,743,1,-1,1,1,True,False,Over consumption: 2/1 (grandfathered)
+34,NJ,Roebling,Burlington,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Room 533C,Middlesex,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Roosevelt,Monmouth,0,False,False,False,False,False,0,0,0,0,0,False,808,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Roseland,Essex,3,True,True,False,True,False,1,1,0,1,0,True,6299,2,1,1,0,False,False,1 consumption slots available
+34,NJ,Roselle,Union,19,True,True,False,True,False,10,8,0,1,0,True,22695,7,-3,3,-5,True,True,"Over both: 10/7 cons, 8/3 dist (grandfathered)"
+34,NJ,Roselle Park,Union,14,True,True,False,True,False,9,3,0,2,0,True,13967,4,-5,1,-2,True,True,"Over both: 9/4 cons, 3/1 dist (grandfathered)"
+34,NJ,Rosenhayn,Cumberland,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Roxbury,Morris,7,True,True,False,True,False,4,2,0,1,0,True,22950,7,3,3,1,False,False,3 consumption; 1 distribution slots available
+34,NJ,Rumson,Monmouth,11,True,True,False,False,False,9,2,0,0,0,True,7343,2,-7,1,-1,True,True,"Over both: 9/2 cons, 2/1 dist (grandfathered)"
+34,NJ,Runnemede,Camden,7,True,True,False,True,False,4,1,0,2,0,True,8324,2,-2,1,0,True,False,Over consumption: 4/2 (grandfathered)
+34,NJ,Rutherford,Bergen,19,True,True,False,True,False,6,10,0,3,0,True,18834,6,0,2,-8,False,True,Over distribution: 10/2 (grandfathered)
+34,NJ,Saddle Brook,Bergen,18,True,True,False,True,True,14,2,0,2,1,True,14294,4,-10,1,-1,True,True,"Over both: 14/4 cons, 2/1 dist (grandfathered)"
+34,NJ,Saddle River,Bergen,0,False,False,False,False,False,0,0,0,0,0,False,3372,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Salem,Salem,7,True,True,False,True,False,3,2,0,2,0,True,5296,1,-2,1,-1,True,True,"Over both: 3/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Sandyston,Sussex,5,True,False,False,False,False,5,0,0,0,0,False,1977,1,-4,1,1,True,False,Over consumption: 5/1 (grandfathered)
+34,NJ,Sayerville,Middlesex,2,True,True,False,False,False,1,1,0,0,0,True,,,,,,,,
+34,NJ,Sayreville,Middlesex,39,True,True,False,True,False,32,4,0,3,0,True,45345,15,-17,6,2,True,False,Over consumption: 32/15 (grandfathered)
+34,NJ,Sayverville,Middlesex,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Scotch Plains,Union,17,True,True,False,True,False,10,4,0,3,0,True,24968,8,-2,3,-1,True,True,"Over both: 10/8 cons, 4/3 dist (grandfathered)"
+34,NJ,Scothch Plains,Union,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Sea Bright,Monmouth,18,True,True,False,True,True,15,2,0,1,1,True,1449,1,-14,1,-1,True,True,"Over both: 15/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Sea Girt,Monmouth,6,True,True,False,False,False,5,1,0,0,0,True,1866,1,-4,1,0,True,False,Over consumption: 5/1 (grandfathered)
+34,NJ,Sea Isle City,Cape May,12,True,True,False,True,False,8,1,0,3,0,True,2104,1,-7,1,0,True,False,Over consumption: 8/1 (grandfathered)
+34,NJ,Seaside Heights,Ocean,26,True,True,False,True,True,19,4,0,3,1,True,2440,1,-18,1,-3,True,True,"Over both: 19/1 cons, 4/1 dist (grandfathered)"
+34,NJ,Seaside Park,Ocean,5,True,True,False,True,False,2,2,0,1,0,True,1436,1,-1,1,-1,True,True,"Over both: 2/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Secaucus,Hudson,44,True,True,False,True,True,35,7,0,2,7,True,22181,7,-28,2,-5,True,True,"Over both: 35/7 cons, 7/2 dist (grandfathered)"
+34,NJ,Sergeantsville,Hunterdon,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Sewaren,Middlesex,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Shamong,Burlington,3,True,True,False,False,False,2,1,0,0,0,True,6460,2,0,1,0,False,False,At capacity
+34,NJ,Shiloh,Cumberland,0,False,False,False,False,False,0,0,0,0,0,False,444,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Ship Bottom,Ocean,7,True,True,False,False,False,5,2,0,0,0,True,1098,1,-4,1,-1,True,True,"Over both: 5/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Shore Acres,Ocean,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Shrewsbury,Monmouth,5,True,True,False,False,False,3,2,0,0,0,True,4184,1,-2,1,-1,True,True,"Over both: 3/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Skillman,Somerset,8,True,True,False,True,False,5,1,0,2,0,True,,,,,,,,
+34,NJ,Smithville,Atlantic,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Somerdale,Camden,10,True,True,False,True,False,8,1,0,1,0,True,5566,1,-7,1,0,True,False,Over consumption: 8/1 (grandfathered)
+34,NJ,Somers Point,Atlantic,21,True,True,False,True,False,17,1,0,3,0,True,10469,3,-14,1,0,True,False,Over consumption: 17/3 (grandfathered)
+34,NJ,Somerville,Somerset,19,True,True,False,True,False,15,2,0,2,0,True,12346,4,-11,1,-1,True,True,"Over both: 15/4 cons, 2/1 dist (grandfathered)"
+34,NJ,Sommers Point,Atlantic,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,South Amboy,Middlesex,29,True,True,False,True,False,18,8,0,3,0,True,9411,3,-15,1,-7,True,True,"Over both: 18/3 cons, 8/1 dist (grandfathered)"
+34,NJ,South Bound Brook,Somerset,4,True,True,False,False,False,3,1,0,0,0,True,4863,1,-2,1,0,True,False,Over consumption: 3/1 (grandfathered)
+34,NJ,South Brunswick,Middlesex,25,True,True,False,True,True,17,6,0,2,4,True,47043,15,-2,6,0,True,False,Over consumption: 17/15 (grandfathered)
+34,NJ,South Hackensack,Bergen,12,True,True,False,False,False,10,2,0,0,0,True,2701,1,-9,1,-1,True,True,"Over both: 10/1 cons, 2/1 dist (grandfathered)"
+34,NJ,South Harrison,,0,False,False,False,False,False,0,0,0,0,0,False,3395,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,South Orange Village,Essex,14,True,True,False,True,False,8,4,0,2,0,True,18484,6,-2,2,-2,True,True,"Over both: 8/6 cons, 4/2 dist (grandfathered)"
+34,NJ,South Plainfield,Middlesex,22,True,True,False,True,True,15,3,0,4,1,True,24338,8,-7,3,0,True,False,Over consumption: 15/8 (grandfathered)
+34,NJ,South River,Middlesex,30,True,True,False,True,False,19,5,0,6,0,True,16118,5,-14,2,-3,True,True,"Over both: 19/5 cons, 5/2 dist (grandfathered)"
+34,NJ,South Seaside Park,Ocean,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,South Toms River,Ocean,2,True,True,False,False,False,1,1,0,0,0,True,3643,1,0,1,0,False,False,At capacity
+34,NJ,Southampton,Burlington,5,True,True,False,False,False,4,1,0,0,0,True,10317,3,-1,1,0,True,False,Over consumption: 4/3 (grandfathered)
+34,NJ,Sparta,Sussex,19,True,False,False,True,False,17,0,0,2,0,False,19600,6,-11,2,2,True,False,Over consumption: 17/6 (grandfathered)
+34,NJ,Spotswood,Middlesex,7,True,True,False,True,False,2,1,0,4,0,True,8163,2,0,1,0,False,False,At capacity
+34,NJ,Spray Beach,Ocean,2,True,False,False,True,True,1,0,0,1,1,False,,,,,,,,
+34,NJ,Spring Lake,Monmouth,7,True,True,False,True,False,2,3,0,2,0,True,2789,1,-1,1,-2,True,True,"Over both: 2/1 cons, 3/1 dist (grandfathered)"
+34,NJ,Spring Lake Heights,Monmouth,8,True,True,False,False,False,7,1,0,0,0,True,4890,1,-6,1,0,True,False,Over consumption: 7/1 (grandfathered)
+34,NJ,Springfield,Union,15,True,True,False,True,True,9,4,0,2,1,True,3245,1,-8,1,-3,True,True,"Over both: 9/1 cons, 4/1 dist (grandfathered)"
+34,NJ,Stafford,Ocean,14,True,True,False,True,True,9,2,0,3,1,True,28617,9,0,3,1,False,False,1 distribution slots available
+34,NJ,Staffordville,Ocean,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Stanhope,Sussex,10,True,True,False,True,False,6,2,0,2,0,True,3526,1,-5,1,-1,True,True,"Over both: 6/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Stewartsville,Warren,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Stillwater,Sussex,4,True,True,False,False,False,3,1,0,0,0,True,4004,1,-2,1,0,True,False,Over consumption: 3/1 (grandfathered)
+34,NJ,Stirling,Morris,6,True,True,True,True,False,3,1,1,1,0,True,,,,,,,,
+34,NJ,Stockholm,Sussex,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Stockton,Hunterdon,2,True,True,False,False,False,1,1,0,0,0,True,495,1,0,1,0,False,False,At capacity
+34,NJ,Stone Harbor,Cape May,6,True,False,False,True,False,4,0,0,2,0,False,796,1,-3,1,1,True,False,Over consumption: 4/1 (grandfathered)
+34,NJ,Store 420A Cross Keys Commons,Gloucester,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Stow Creek,,0,False,False,False,False,False,0,0,0,0,0,False,1312,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Stratford,Camden,2,True,True,False,False,False,1,1,0,0,0,True,6981,2,1,1,0,False,False,1 consumption slots available
+34,NJ,Strathmere,Cape May,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Summers Point,Atlantic,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Summit,Union,21,True,True,False,True,False,9,9,0,3,0,True,22719,7,-2,3,-6,True,True,"Over both: 9/7 cons, 9/3 dist (grandfathered)"
+34,NJ,Surf,Ocean,2,True,False,False,False,False,2,0,0,0,0,False,1243,1,-1,1,1,True,False,Over consumption: 2/1 (grandfathered)
+34,NJ,Surf City,Ocean,0,False,False,False,False,False,0,0,0,0,0,False,1243,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Sussex,Sussex,6,True,True,False,True,False,4,1,0,1,0,True,2024,1,-3,1,0,True,False,Over consumption: 4/1 (grandfathered)
+34,NJ,Swainton,Cape May,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Swedesboro,Gloucester,3,True,True,False,False,False,2,1,0,0,0,True,2711,1,-1,1,0,True,False,Over consumption: 2/1 (grandfathered)
+34,NJ,Sweetwater,Atlantic,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Tabernacle,Burlington,4,True,True,False,False,False,3,1,0,0,0,True,6776,2,-1,1,0,True,False,Over consumption: 3/2 (grandfathered)
+34,NJ,Tavistock,Camden,0,False,False,False,False,False,0,0,0,0,0,False,9,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Teaneck,Bergen,31,True,True,False,True,True,18,10,0,3,2,True,41246,13,-5,5,-5,True,True,"Over both: 18/13 cons, 10/5 dist (grandfathered)"
+34,NJ,Tenafly,Bergen,17,True,True,False,True,False,10,4,0,3,0,True,15409,5,-5,2,-2,True,True,"Over both: 10/5 cons, 4/2 dist (grandfathered)"
+34,NJ,Teterboro,Bergen,1,True,False,False,False,False,1,0,0,0,0,False,61,1,0,1,1,False,False,1 distribution slots available
+34,NJ,Tewksbury,Hunterdon,2,True,True,False,False,False,1,1,0,0,0,True,5870,1,0,1,0,False,False,At capacity
+34,NJ,Thorofare,Gloucester,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Three Bridges,Hunterdon,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Tinton Falls,Monmouth,17,True,True,False,True,True,13,3,0,1,3,True,19181,6,-7,2,-1,True,True,"Over both: 13/6 cons, 3/2 dist (grandfathered)"
+34,NJ,Toms River,Ocean,51,True,True,False,True,True,34,11,0,6,3,True,95438,31,-3,12,1,True,False,Over consumption: 34/31 (grandfathered)
+34,NJ,Totowa,Passaic,13,True,True,False,True,False,9,2,0,2,0,True,11065,3,-6,1,-1,True,True,"Over both: 9/3 cons, 2/1 dist (grandfathered)"
+34,NJ,Towaco,Morris,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Township Of Byram,Sussex,2,True,False,False,False,False,2,0,0,0,0,False,,,,,,,,
+34,NJ,Township Of Deptford,Gloucester,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Township Of Franklin,Gloucester,2,True,False,False,False,False,2,0,0,0,0,False,,,,,,,,
+34,NJ,Township Of Mantua,Gloucester,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Township Of Middle,Cape May,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Township Of Oxford,Warren,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Township Of Stafford,Ocean,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Township Of Union,Union,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Township Of Vernon,Sussex,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Tranquility,Sussex,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,Trenton,Mercer,115,True,True,False,True,True,96,13,0,6,1,True,90871,30,-66,12,-1,True,True,"Over both: 96/30 cons, 13/12 dist (grandfathered)"
+34,NJ,Tuckerton,Ocean,8,True,True,False,True,False,5,1,0,2,0,True,3577,1,-4,1,0,True,False,Over consumption: 5/1 (grandfathered)
+34,NJ,Twp Of Haddon,Camden,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Twp Of Middletown,Monmouth,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Twp Of Pequannock,Morris,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Union,Hudson,64,True,True,True,True,False,41,14,2,7,0,True,6507,2,-39,1,-13,True,True,"Over both: 41/2 cons, 14/1 dist (grandfathered)"
+34,NJ,Union Beach,Monmouth,9,True,True,False,True,False,6,2,0,1,0,True,5723,1,-5,1,-1,True,True,"Over both: 6/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Union City,Hudson,88,True,True,True,False,False,65,15,8,0,0,True,68589,22,-43,9,-6,True,True,"Over both: 65/22 cons, 15/9 dist (grandfathered)"
+34,NJ,Union Township - Hunterdon County,Hunterdon,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Union Township-Hunterdon County,Hunterdon,5,True,False,False,False,False,5,0,0,0,0,False,,,,,,,,
+34,NJ,Upper,Cape May,3,True,False,False,False,False,3,0,0,0,0,False,12539,4,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Upper Deerfield,,0,False,False,False,False,False,0,0,0,0,0,False,7645,2,2,1,1,False,False,2 consumption; 1 distribution slots available
+34,NJ,Upper Freehold,Monmouth,1,False,True,False,False,False,0,1,0,0,0,True,7273,2,2,1,0,False,False,2 consumption slots available
+34,NJ,Upper Pittsgrove,,0,False,False,False,False,False,0,0,0,0,0,False,3432,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Upper Saddle Brook,Bergen,3,True,True,False,False,False,2,1,0,0,0,True,,,,,,,,
+34,NJ,Upper Saddle River,,0,False,False,False,False,False,0,0,0,0,0,False,8353,2,2,1,1,False,False,2 consumption; 1 distribution slots available
+34,NJ,Ventnor City,Atlantic,11,True,True,False,False,False,3,8,0,0,0,True,9210,3,0,1,-7,False,True,Over distribution: 8/1 (grandfathered)
+34,NJ,Ventor,Atlantic,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Vernon,Sussex,8,True,True,False,True,True,6,1,0,1,1,True,22358,7,1,2,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Verona,Essex,8,True,True,False,False,False,5,3,0,0,0,True,14572,4,-1,1,-2,True,True,"Over both: 5/4 cons, 3/1 dist (grandfathered)"
+34,NJ,Victory Gardens,Morris,1,False,True,False,False,False,0,1,0,0,0,True,1582,1,1,1,0,False,False,1 consumption slots available
+34,NJ,Villas,Cape May,3,False,True,False,True,False,0,1,0,2,0,True,,,,,,,,
+34,NJ,Vineland,Atlantic,48,True,True,False,True,True,37,6,0,5,5,True,60780,20,-17,8,2,True,False,Over consumption: 37/20 (grandfathered)
+34,NJ,Voorhees,Camden,15,True,True,False,False,True,11,4,0,0,2,True,31069,10,-1,4,0,True,False,Over consumption: 11/10 (grandfathered)
+34,NJ,W Berlin,Camden,1,False,False,False,True,False,0,0,0,1,0,False,,,,,,,,
+34,NJ,W Collingswood,Camden,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Waldwick,Bergen,9,True,True,False,True,False,6,2,0,1,0,True,10058,3,-3,1,-1,True,True,"Over both: 6/3 cons, 2/1 dist (grandfathered)"
+34,NJ,Wall,Monmouth,13,True,True,False,False,True,11,2,0,0,1,True,26525,8,-3,3,1,True,False,Over consumption: 11/8 (grandfathered)
+34,NJ,Wallington,Bergen,20,True,True,False,True,False,17,2,0,1,0,True,11868,3,-14,1,-1,True,True,"Over both: 17/3 cons, 2/1 dist (grandfathered)"
+34,NJ,Walpack,Sussex,1,True,False,False,False,False,1,0,0,0,0,False,7,1,0,1,1,False,False,1 distribution slots available
+34,NJ,Wanamassa,Monmouth,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Wanaque,Passaic,7,True,True,False,False,False,6,1,0,0,0,True,11317,3,-3,1,0,True,False,Over consumption: 6/3 (grandfathered)
+34,NJ,Wanque,Passaic,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Wantage,Sussex,11,True,True,False,True,False,9,1,0,1,0,True,10811,3,-6,1,0,True,False,Over consumption: 9/3 (grandfathered)
+34,NJ,Warren,Somerset,12,True,True,False,True,True,8,2,0,2,1,True,15923,5,-3,2,0,True,False,Over consumption: 8/5 (grandfathered)
+34,NJ,Warren Twsp,Somerset,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Washington,Bergen,41,True,True,False,True,False,30,5,0,6,0,True,7299,2,-28,1,-4,True,True,"Over both: 30/2 cons, 5/1 dist (grandfathered)"
+34,NJ,Watchung,Somerset,7,True,True,False,False,False,6,1,0,0,0,True,6449,2,-4,1,0,True,False,Over consumption: 6/2 (grandfathered)
+34,NJ,Waterford,Camden,2,True,True,False,False,False,1,1,0,0,0,True,10421,3,2,1,0,False,False,2 consumption slots available
+34,NJ,Waterford Works,Camden,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Waymouth,Atlantic,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Wayne,Passaic,58,True,True,False,True,True,47,6,0,5,4,True,54838,18,-29,7,1,True,False,Over consumption: 47/18 (grandfathered)
+34,NJ,Weehawken,Hudson,25,True,True,False,True,True,13,9,0,3,3,True,17197,5,-8,2,-7,True,True,"Over both: 13/5 cons, 9/2 dist (grandfathered)"
+34,NJ,Wenonah,Gloucester,1,False,False,False,True,False,0,0,0,1,0,False,2283,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,West Amwell,Hunterdon,1,True,False,False,False,False,1,0,0,0,0,False,3005,1,0,1,1,False,False,1 distribution slots available
+34,NJ,West Berlin,Camden,4,True,True,False,False,False,3,1,0,0,0,True,,,,,,,,
+34,NJ,West Caldwell,Essex,6,True,True,False,True,False,4,1,0,1,0,True,11012,3,-1,1,0,True,False,Over consumption: 4/3 (grandfathered)
+34,NJ,West Cape May,Cape May,2,True,True,False,False,False,1,1,0,0,0,True,1010,1,0,1,0,False,False,At capacity
+34,NJ,West Collingswood,Camden,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,West Creek,Ocean,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,West Deptford,Gloucester,10,True,True,False,True,False,8,1,0,1,0,True,22197,7,-1,2,1,True,False,Over consumption: 8/7 (grandfathered)
+34,NJ,West Long Branch,Monmouth,8,True,True,False,True,True,6,1,0,1,1,True,8587,2,-4,1,0,True,False,Over consumption: 6/2 (grandfathered)
+34,NJ,West Mildford,Passaic,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,West Milford,Morris,28,True,True,False,True,False,24,2,0,2,0,True,24862,8,-16,3,1,True,False,Over consumption: 24/8 (grandfathered)
+34,NJ,West New York,Hudson,48,True,True,True,True,False,30,13,3,2,0,True,52912,17,-13,7,-6,True,True,"Over both: 30/17 cons, 13/7 dist (grandfathered)"
+34,NJ,West Orange,Essex,66,True,True,False,True,True,49,16,0,1,3,True,48843,16,-33,6,-10,True,True,"Over both: 49/16 cons, 16/6 dist (grandfathered)"
+34,NJ,West Trenton,Mercer,4,True,False,False,True,False,3,0,0,1,0,False,,,,,,,,
+34,NJ,West Wildwood,Cape May,2,True,True,False,False,False,1,1,0,0,0,True,540,1,0,1,0,False,False,At capacity
+34,NJ,West Windsor,Mercer,14,True,True,False,False,True,11,3,0,0,4,True,29518,9,-2,3,0,True,False,Over consumption: 11/9 (grandfathered)
+34,NJ,Westampton,Burlington,9,True,True,False,True,True,5,1,0,3,3,True,9121,3,-2,1,0,True,False,Over consumption: 5/3 (grandfathered)
+34,NJ,Westfield,Union,20,True,True,False,True,False,10,7,0,3,0,True,31032,10,0,4,-3,False,True,Over distribution: 7/4 (grandfathered)
+34,NJ,Westville,Gloucester,8,True,False,False,True,False,6,0,0,2,0,False,4264,1,-5,1,1,True,False,Over consumption: 6/1 (grandfathered)
+34,NJ,Westwood,Bergen,14,True,True,False,True,False,7,4,0,3,0,True,11282,3,-4,1,-3,True,True,"Over both: 7/3 cons, 4/1 dist (grandfathered)"
+34,NJ,Weymouth,Atlantic,3,True,False,False,False,False,3,0,0,0,0,False,2614,1,-2,1,1,True,False,Over consumption: 3/1 (grandfathered)
+34,NJ,Wharton,Morris,15,True,True,False,False,False,12,3,0,0,0,True,7241,2,-10,1,-2,True,True,"Over both: 12/2 cons, 3/1 dist (grandfathered)"
+34,NJ,White,Warren,7,True,True,False,False,False,6,1,0,0,0,True,4606,1,-5,1,0,True,False,Over consumption: 6/1 (grandfathered)
+34,NJ,White House Station,Hunterdon,1,False,True,False,False,False,0,1,0,0,0,True,,,,,,,,
+34,NJ,Whitehouse Station,Hunterdon,5,True,False,False,False,False,5,0,0,0,0,False,,,,,,,,
+34,NJ,Wildwood,Cape May,55,True,True,False,True,True,51,3,0,1,2,True,5157,1,-50,1,-2,True,True,"Over both: 51/1 cons, 3/1 dist (grandfathered)"
+34,NJ,Wildwood Crest,Cape May,0,False,False,False,False,False,0,0,0,0,0,False,3101,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Willingboro,Burlington,3,True,False,False,True,False,2,0,0,1,0,False,31889,10,8,4,4,False,False,8 consumption; 4 distribution slots available
+34,NJ,Winfield,Union,1,False,False,False,True,False,0,0,0,1,0,False,1423,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Winslow,Camden,23,True,True,False,False,False,22,1,0,0,0,True,39907,13,-9,5,4,True,False,Over consumption: 22/13 (grandfathered)
+34,NJ,Wood-Ridge,Bergen,8,True,True,False,False,True,5,3,0,0,1,True,10137,3,-2,1,-2,True,True,"Over both: 5/3 cons, 3/1 dist (grandfathered)"
+34,NJ,Woodbine,Cape May,4,True,True,False,False,False,3,1,0,0,0,True,2128,1,-2,1,0,True,False,Over consumption: 3/1 (grandfathered)
+34,NJ,Woodbridge,Middlesex,85,True,True,False,True,True,62,10,0,13,3,True,103639,34,-28,13,3,True,False,Over consumption: 62/34 (grandfathered)
+34,NJ,Woodbury,Gloucester,8,True,True,False,True,False,5,2,0,1,0,True,9963,3,-2,1,-1,True,True,"Over both: 5/3 cons, 2/1 dist (grandfathered)"
+34,NJ,Woodbury Heights,Gloucester,2,True,True,False,False,False,1,1,0,0,0,True,3098,1,0,1,0,False,False,At capacity
+34,NJ,Woodcliff Lake,Bergen,5,True,True,False,False,True,4,1,0,0,1,True,6128,2,-2,1,0,True,False,Over consumption: 4/2 (grandfathered)
+34,NJ,Woodland,Burlington,4,True,True,False,False,False,3,1,0,0,0,True,1544,1,-2,1,0,True,False,Over consumption: 3/1 (grandfathered)
+34,NJ,Woodland Park,Passaic,15,True,True,False,False,False,12,3,0,0,0,True,13484,4,-8,1,-2,True,True,"Over both: 12/4 cons, 3/1 dist (grandfathered)"
+34,NJ,Woodlynne,Camden,0,False,False,False,False,False,0,0,0,0,0,False,2902,1,1,1,1,False,False,1 consumption; 1 distribution slots available
+34,NJ,Woodridge,Bergen,1,True,False,False,False,False,1,0,0,0,0,False,,,,,,,,
+34,NJ,Woodstown,Salem,5,True,False,False,True,False,2,0,0,3,0,False,3678,1,-1,1,1,True,False,Over consumption: 2/1 (grandfathered)
+34,NJ,Woolwich,Gloucester,3,True,True,False,False,False,2,1,0,0,0,True,12577,4,2,1,0,False,False,2 consumption slots available
+34,NJ,Wrightstown,Burlington,9,True,True,False,False,False,7,2,0,0,0,True,720,1,-6,1,-1,True,True,"Over both: 7/1 cons, 2/1 dist (grandfathered)"
+34,NJ,Wyckoff,Bergen,7,True,True,False,False,False,5,2,0,0,0,True,16585,5,0,2,0,False,False,At capacity

@@ -1,0 +1,29 @@
+geoid,licensing_authority_name,licensing_authority_type,data_source,notes
+15001,Hawaii County Department of Liquor Control,dedicated_board,hi_manual,Big Island (Hawaii County)
+15003,Honolulu Liquor Commission,dedicated_board,hi_manual,City and County of Honolulu
+15007,Kauai County Department of Liquor Control,dedicated_board,hi_manual,
+15009,Maui County Liquor Control Commission,dedicated_board,hi_manual,Includes Lanai and Molokai
+24001,Allegany County Board of License Commissioners,dedicated_board,md_liquor_boards,
+24003,Anne Arundel County Board of License Commissioners,dedicated_board,md_liquor_boards,
+24005,Baltimore County Liquor Board,dedicated_board,md_liquor_boards,
+24011,Caroline County Board of License Commissioners,dedicated_board,md_liquor_boards,
+24009,Calvert County Board of License Commissioners,dedicated_board,md_liquor_boards,
+24013,Carroll County Board of License Commissioners,dedicated_board,md_liquor_boards,
+24015,Cecil County Board of License Commissioners,dedicated_board,md_liquor_boards,
+24017,Charles County Board of License Commissioners,dedicated_board,md_liquor_boards,
+24019,Dorchester County Liquor Board,dedicated_board,md_liquor_boards,
+24021,Frederick County Liquor Board,dedicated_board,md_liquor_boards,
+24023,Garrett County Liquor Control Board,dedicated_board,md_liquor_boards,
+24025,Harford County Liquor Control Commission Board,dedicated_board,md_liquor_boards,
+24027,Howard County Liquor License Board,dedicated_board,md_liquor_boards,
+24029,Kent County Alcoholic Beverage Board,dedicated_board,md_liquor_boards,
+24031,Montgomery County Alcoholic Beverage Service,dedicated_board,md_liquor_boards,
+24033,Prince George's County Board of License Commissioners,dedicated_board,md_liquor_boards,
+24035,Queen Anne's County Board of License Commissioners,dedicated_board,md_liquor_boards,
+24037,St. Mary's County Alcoholic Beverage Board,dedicated_board,md_liquor_boards,
+24039,Somerset County Liquor Board,dedicated_board,md_liquor_boards,
+24041,Talbot County Liquor Board,dedicated_board,md_liquor_boards,
+24043,Washington County Liquor Board,dedicated_board,md_liquor_boards,
+24045,Wicomico County Board of License Commissioners,dedicated_board,md_liquor_boards,
+24047,Worcester County Liquor Board,dedicated_board,md_liquor_boards,
+24510,Baltimore City Liquor License Board,dedicated_board,md_liquor_boards,Baltimore City (independent city)

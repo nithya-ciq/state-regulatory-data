@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+*.whl
+
+# Virtual environment
+jurisdiction-env/
+venv/
+.venv/
+
+# Environment files (contains secrets)
+.env.local
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dagster
+.tmp_dagster_home*/
+dagster_home/
+
+# Output files (generated, not source)
+data/output/*.json
+data/output/*.csv
+data/output/*.parquet
+data/output/*.xlsx
+data/output/*.docx
+
+# Cache
+data/cache/
+*.pyc
+
+# Large binary files that should use Git LFS or be downloaded
+# Keep seed CSVs but exclude large raw downloads
+data/seed/nj_retail_licensees.xlsx
+data/seed/ky_active_licenses.xlsx
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Dagster home (run history, not source)
+.dagster_home/
+DAGSTER_HOME/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Claude project files
+.claude/
+
+# Research output
+data/research/
+
+# State Regulations Matrix (Gauri's doc, not our source)
+State Regulations Matrix.docx
+
+# Large test/temp files
+*.db
+*.db-shm
+*.db-wal
+
+# Docker compose local state
+docker-compose.override.yml

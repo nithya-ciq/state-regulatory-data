@@ -1,0 +1,7 @@
+geoid,state_fips,jurisdiction_name,override_field,override_value,override_notes,data_source,last_verified
+24031,24,Montgomery,control_status,control,County operates Department of Liquor Control (DLC) — government-run retail stores,md_dlc,2026-02-27
+24031,24,Montgomery,grocery_wine_allowed,false,Wine sold only at county-run stores,md_dlc,2026-02-27
+24031,24,Montgomery,grocery_beer_allowed,true,Beer available at private retail,md_dlc,2026-02-27
+24039,24,Somerset,grocery_wine_allowed,false,No grocery wine sales,md_oag,2026-02-27
+24045,24,Wicomico,grocery_wine_allowed,false,No grocery wine sales,md_oag,2026-02-27
+24047,24,Worcester,grocery_wine_allowed,false,No grocery wine sales,md_oag,2026-02-27

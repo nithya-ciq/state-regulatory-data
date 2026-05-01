@@ -1,0 +1,67 @@
+county,status,wet_cities,notes
+Autauga,wet,ALL,Fully wet county
+Baldwin,wet,ALL,Fully wet county
+Barbour,wet,ALL,Fully wet county
+Bullock,wet,ALL,Fully wet county
+Butler,wet,ALL,Fully wet county
+Calhoun,wet,ALL,Fully wet county
+Chambers,wet,ALL,Fully wet county
+Chilton,wet,ALL,Fully wet county
+Choctaw,wet,ALL,Fully wet county
+Cleburne,wet,ALL,Fully wet county
+Colbert,wet,ALL,Fully wet county
+Conecuh,wet,ALL,Fully wet county
+Coosa,wet,ALL,Fully wet county
+Covington,wet,ALL,Fully wet county
+Crenshaw,wet,ALL,Fully wet county
+Dale,wet,ALL,Fully wet county
+Dallas,wet,ALL,Fully wet county
+Elmore,wet,ALL,Fully wet county
+Escambia,wet,ALL,Fully wet county
+Etowah,wet,ALL,Fully wet county
+Greene,wet,ALL,Fully wet county
+Hale,wet,ALL,Fully wet county
+Henry,wet,ALL,Fully wet county
+Houston,wet,ALL,Fully wet county
+Jefferson,wet,ALL,Fully wet county
+Lee,wet,ALL,Fully wet county
+Lowndes,wet,ALL,Fully wet county
+Macon,wet,ALL,Fully wet county
+Madison,wet,ALL,Fully wet county
+Marengo,wet,ALL,Fully wet county
+Mobile,wet,ALL,Fully wet county
+Montgomery,wet,ALL,Fully wet county
+Perry,wet,ALL,Fully wet county
+Pike,wet,ALL,Fully wet county
+Randolph,wet,ALL,Fully wet county
+Russell,wet,ALL,Fully wet county
+Shelby,wet,ALL,Fully wet county
+St. Clair,wet,ALL,Fully wet county
+Sumter,wet,ALL,Fully wet county
+Talladega,wet,ALL,Fully wet county
+Tallapoosa,wet,ALL,Fully wet county
+Tuscaloosa,wet,ALL,Fully wet county
+Washington,wet,ALL,Fully wet county
+Wilcox,wet,ALL,Fully wet county
+Bibb,moist,Brent; Centreville; West Blockton; Woodstock,Dry county with 4 wet cities
+Blount,moist,Blountsville; Hayden; Oneonta; Cleveland; Snead; Susan Moore,Dry county with 6 wet cities
+Cherokee,moist,Cedar Bluff; Centre; Leesburg; Cherokee Ridge,Dry county with 4 wet cities
+Clay,moist,Ashland; Lineville,Dry county with 2 wet cities
+Coffee,moist,Elba; Enterprise; New Brockton,Dry county with 3 wet cities
+Cullman,moist,Cullman; Good Hope; Hanceville,Dry county with 3 wet cities
+DeKalb,moist,Collinsville; Henagar; Ft. Payne; Rainsville; Mentone; Sylvania,Dry county with 6 wet cities
+Fayette,moist,Fayette,Dry county with 1 wet cities
+Franklin,moist,Russellville,Dry county with 1 wet cities
+Geneva,moist,Geneva; Samson; Slocomb; Hartford,Dry county with 4 wet cities
+Jackson,moist,Bridgeport; Scottsboro; Stevenson; Hollywood,Dry county with 4 wet cities
+Lamar,moist,Sulligent,Dry county with 1 wet cities
+Lauderdale,moist,Rogersville; Florence; St. Florian; Lexington; Killen,Dry county with 5 wet cities
+Lawrence,moist,Moulton; Town Creek,Dry county with 2 wet cities
+Limestone,moist,Athens,Dry county with 1 wet cities
+Marion,moist,Guin; Haleyville; Hackleburg; Hamilton; Winfield,Dry county with 5 wet cities
+Marshall,moist,Albertville; Arab; Boaz; Guntersville; Grant,Dry county with 5 wet cities
+Monroe,moist,Frisco City; Monroeville,Dry county with 2 wet cities
+Morgan,moist,Decatur; Hartselle; Priceville; Trinity,Dry county with 4 wet cities
+Pickens,moist,Aliceville; Reform; Carrollton,Dry county with 3 wet cities
+Walker,moist,Jasper; Cordova; Dora; Sumiton,Dry county with 4 wet cities
+Winston,moist,Haleyville; Double Springs,Dry county with 2 wet cities

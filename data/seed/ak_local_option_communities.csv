@@ -1,0 +1,110 @@
+community_name,zip_code,restriction_type,wet_dry_status,restriction_description,limitation,effective_date,is_unincorporated
+Akiak,99552,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,9/22/2021,False
+Akiachak,99551,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,10/22/2001,True
+Alakanuk,99554,ban_sale_import,dry,Sale and importation banned; personal possession allowed,,3/1/1990,False
+Aleknagik,99555,sale_specific_type,damp,Sale allowed only under specific license type,Outdoor Recreation Lodge License Only,7/1/2011,False
+Allakaket,99720,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,8/17/1989,False
+Ambler,99786,ban_sale_import,dry,Sale and importation banned; personal possession allowed,,1/1/1982,False
+Anvik,99558,ban_sale,damp,Sale banned but importation for personal use allowed,,2/1/2002,False
+Anaktuvuk Pass,99721,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,1/1/1987,False
+Angoon,99820,ban_sale_import,dry,Sale and importation banned; personal possession allowed,,2/1/2013,False
+Atmautluak,99559,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,5/1/1982,True
+Atqasuk,99791,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,6/30/2003,False
+Beaver,99724,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,8/1/2004,True
+Bethel,99559,sale_specific_type,damp,Sale allowed only under specific license type,Restaurant/Eating Place License Only,10/8/2019,False
+Birch Creek,99740,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,11/1/1987,True
+Brevig Mission,99785,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,5/3/1999,False
+Buckland,99727,ban_sale_import,dry,Sale and importation banned; personal possession allowed,,6/1/1982,False
+Chalkyitsik,99788,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,8/1/1982,True
+Chefornak,99561,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,11/1/1982,False
+Chevak,99563,ban_sale_import,dry,Sale and importation banned; personal possession allowed,,11/1/1990,False
+Deering,99736,ban_sale_import,dry,Sale and importation banned; personal possession allowed,,7/1/1982,False
+Diomede,99762,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,10/1/1981,False
+Eek,99578,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,12/1/1982,False
+Elim,99739,ban_sale_import,dry,Sale and importation banned; personal possession allowed,,9/1/1981,False
+Emmonak,99581,ban_sale,damp,Sale banned but importation for personal use allowed,Package Store,10/14/2016,False
+False Pass,99583,ban_sale,damp,Sale banned but importation for personal use allowed,Package Store,11/1/2001,False
+Fort Yukon,99740,ban_sale,damp,Sale banned but importation for personal use allowed,Package Store,12/1/2009,False
+Gambell,99742,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,1/1/1987,False
+Golovin,99762,ban_sale_import,dry,Sale and importation banned; personal possession allowed,,2/1/1984,False
+Goodnews Bay,99589,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,2/1/1991,False
+Grayling,99590,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,12/1/1996,False
+Gulkana,99586,ban_sale_import,dry,Sale and importation banned; personal possession allowed,,3/30/1998,True
+Holy Cross,99602,ban_sale_import,dry,Sale and importation banned; personal possession allowed,,11/1/2000,False
+Hooper Bay,99604,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,4/1/1983,False
+Hughes,99745,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,4/1/1993,False
+Huslia,99746,ban_sale_import,dry,Sale and importation banned; personal possession allowed,,4/1/1989,False
+Hydaburg,99922,ban_sale,damp,Sale banned but importation for personal use allowed,Package Store,11/1/2014,False
+Iliamna,99606,ban_sale,damp,Sale banned but importation for personal use allowed,Delivery Site,1/23/1983,True
+Kake,99830,ban_sale,damp,Sale banned but importation for personal use allowed,Package Store,,False
+Kasigluk,99609,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,11/1/1983,True
+Kiana,99749,ban_sale,damp,Sale banned but importation for personal use allowed,Delivery Site,11/1/2009,False
+Kipnuk,99614,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,11/1/1982,True
+Kivalina,99750,ban_sale_import,dry,Sale and importation banned; personal possession allowed,,2/1/1985,False
+Klawock,99925,ban_sale,damp,Sale banned but importation for personal use allowed,Package Store,10/11/1993,False
+Kobuk,99751,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,5/1/1989,False
+Kokhanok,99606,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,8/1/2005,True
+Kongiganak,99545,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,6/1/1996,True
+Kotlik,99620,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,4/1/1987,False
+Kotzebue,99752,ban_sale,damp,Sale banned but importation for personal use allowed,Package Store w/ Delivery Site,11/1/2009,False
+Koyuk,99753,ban_sale_import,dry,Sale and importation banned; personal possession allowed,,9/1/1981,False
+Kwethluk,99621,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,3/1/1982,False
+Kwigillingok,99622,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,10/1/1983,True
+Lower Kalskag,99626,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,12/1/1991,False
+Manokotak,99628,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,3/1/1988,False
+Marshall,99585,ban_sale,damp,Sale banned but importation for personal use allowed,Package Store w/ Delivery Site,11/1/2020,False
+Mekoryuk,99630,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,11/1/1986,False
+Minto,99758,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,8/1/1983,True
+Mountain Village,99632,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,4/1/1984,False
+Nanwalek,99603,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,2/1/1998,True
+Napakiak,99634,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,6/1/1987,False
+Napaskiak,99559,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,12/1/1982,False
+Naukati Bay,99901,ban_sale,damp,Sale banned but importation for personal use allowed,Package Store,5/1/1996,True
+Newtok,99559,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,12/1/1984,True
+Nightmute,99690,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,4/9/1996,False
+Nikolai,99691,ban_sale_import,dry,Sale and importation banned; personal possession allowed,,10/1/2014,False
+Noatak,99761,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,1/1/1983,True
+Nondalton,99640,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,1/28/1987,False
+Noorvik,99763,ban_sale_import,dry,Sale and importation banned; personal possession allowed,,5/1/1987,False
+Nulato,99765,ban_sale,damp,Sale banned but importation for personal use allowed,Package Store,8/1/2006,False
+Nuiqsut,99789,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,12/1/1986,False
+Nunam Iqua,99666,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,9/1/1986,False
+Nunapitchuk,99641,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,11/1/1986,False
+Pilot Station,99650,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,4/1/2003,False
+Platinum,99651,ban_sale_import,dry,Sale and importation banned; personal possession allowed,,2/1/1982,False
+Point Hope,99766,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,11/1/1989,False
+Point Lay,99759,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,8/1/1986,True
+Port Alexander,99836,ban_sale,damp,Sale banned but importation for personal use allowed,,2/1/1982,False
+Port Protection,99927,ban_sale_import,dry,Sale and importation banned; personal possession allowed,,5/1/1988,True
+Quinhagak,99655,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,11/1/1987,False
+Red Devil,99656,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,7/26/1990,True
+Russian Mission,99657,ban_sale_import,dry,Sale and importation banned; personal possession allowed,,2/1/2015,False
+Saint Marys,99658,ban_sale,damp,Sale banned but importation for personal use allowed,Delivery Site,11/1/2006,False
+Saint Michael,99659,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,9/1/1986,False
+Saint Paul,99660,ban_sale,damp,Sale banned but importation for personal use allowed,,11/1/2007,False
+Savoonga,99769,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,12/9/1997,False
+Scammon Bay,99662,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,11/1/1987,False
+Selawik,99770,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,1/1/1987,False
+Shageluk,99665,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,4/1/2001,False
+Shaktoolik,99771,ban_sale_import,dry,Sale and importation banned; personal possession allowed,,4/1/1984,False
+Shishmaref,99772,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,2/1/1983,False
+Shungnak,99773,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,11/1/1987,False
+Stebbins,99671,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,11/1/1987,False
+Stevens Village,99774,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,7/1/1984,True
+Takotna,99675,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,12/8/1999,True
+Tanacross,99776,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,6/1/1988,True
+Tanana,99777,ban_sale,damp,Sale banned but importation for personal use allowed,Package Store and Beverage Dispensary,2/1/1982,False
+Tatitlek,99677,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,12/9/1999,True
+Teller,99778,ban_sale_import,dry,Sale and importation banned; personal possession allowed,,1/14/1998,False
+Tetlin,99779,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,1/1/1983,True
+Togiak,99678,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,11/1/1986,False
+Toksook Bay,99637,ban_sale,damp,Sale banned but importation for personal use allowed,,11/1/2012,False
+Tuluksak,99679,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,5/1/1994,True
+Tuntutuliak,99680,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,11/1/1987,True
+Tununak,99681,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,9/1/1981,True
+Twin Hills,99576,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,5/30/2000,True
+Unalakleet,99684,ban_sale,damp,Sale banned but importation for personal use allowed,,5/1/1992,False
+Upper Kalskag,99607,ban_sale,damp,Sale banned but importation for personal use allowed,,11/8/2012,False
+Utqiagvik,99723,ban_sale,damp,Sale banned but importation for personal use allowed,Delivery Site,11/1/1997,False
+Wainwright,99782,ban_sale_import,dry,Sale and importation banned; personal possession allowed,,8/1/1982,False
+Wales,99783,ban_sale_import_possess,dry,"Sale, importation, and possession of alcohol banned",,9/1/1981,False

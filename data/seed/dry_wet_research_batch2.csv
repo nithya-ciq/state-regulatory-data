@@ -1,0 +1,20 @@
+geoid,state_fips,jurisdiction_name,jurisdiction_type,dry_wet_status,dry_wet_notes,data_source
+12067,12,Lafayette,county,moist,No liquor sales; beer under 6.243% ABV allowed for retail sale only,fl_abt_wine_institute
+12077,12,Liberty,county,dry,Only fully dry county in Florida; all alcohol sales prohibited,fl_abt_wine_institute
+37045,37,Clay,county,dry,No ABC store; no legal alcohol sales countywide,nc_abc_commission
+37075,37,Graham,county,dry,No ABC store; no legal alcohol sales countywide,nc_abc_commission
+37117,37,Madison,county,moist,No ABC store (no spirits); beer and wine sales permitted,nc_abc_commission
+37121,37,Mitchell,county,dry,No ABC store; no legal alcohol sales countywide,nc_abc_commission
+37197,37,Yadkin,county,moist,No ABC store (no spirits); beer and wine sales permitted; wine trail region,nc_abc_commission
+37199,37,Yancey,county,dry,No ABC store; no legal alcohol sales countywide,nc_abc_commission
+46102,46,Oglala Lakota,county,dry,Only dry county in SD; located within Pine Ridge Indian Reservation; formerly Shannon County,sd_dor_wikipedia
+51021,51,Bland,county,moist,Distilled spirits sales prohibited; beer and wine sales allowed,va_abc_authority
+51027,51,Buchanan,county,moist,Distilled spirits sales prohibited; beer and wine sales allowed,va_abc_authority
+51037,51,Charlotte,county,moist,Distilled spirits sales prohibited; beer and wine sales allowed,va_abc_authority
+51051,51,Craig,county,moist,Distilled spirits sales prohibited; beer and wine sales allowed,va_abc_authority
+51063,51,Floyd,county,moist,Distilled spirits sales prohibited; beer and wine sales allowed,va_abc_authority
+51077,51,Grayson,county,moist,Distilled spirits sales prohibited; beer and wine sales allowed,va_abc_authority
+51091,51,Highland,county,moist,Distilled spirits sales prohibited; beer and wine sales allowed,va_abc_authority
+51105,51,Lee,county,moist,Distilled spirits sales prohibited; beer and wine sales allowed,va_abc_authority
+51141,51,Patrick,county,moist,Distilled spirits sales prohibited; beer and wine sales allowed,va_abc_authority
+51167,51,Russell,county,moist,Distilled spirits sales prohibited; beer and wine sales allowed,va_abc_authority
